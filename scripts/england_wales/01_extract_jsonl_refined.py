@@ -86,7 +86,6 @@ def extract_information_from_xml(xml_content, file_name):
     # Join the unique court types
     court_type_ = "_".join(unique_court_types)
     court_type_ = re.sub(r'_+', '_', court_type_).strip('_')
-
     # Categorize the combined court types
     court_type = categorize_court(court_type_)
 
