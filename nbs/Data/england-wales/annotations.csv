@@ -1,0 +1,409 @@
+source,exact,comment,tags
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,"27th February 2006 the offender pleaded guilty, at the earliest opportunity",,"['Confess/Plead', 'PleaPoint', 'ConvictPleaDate']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,dismiss both appeals against conviction.,After appeals & retrials,"['ReasonDismiss', 'AppealOutcome']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,Ali knew Karen Price from a school that they attended,,['OffVicRelation']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,Karen Price and D were absconders,Unemployed,['VicJobOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,worked as a doorman.,,['OffJobOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,court held this was credible and admissible evidence that might have had an impact on the verdict. It quashed the conviction and ordered a re-trial.,Evidence admissible,"['VoirDire', 'VoirDireOutcome']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,(both consultant psychologists) as to Ali’s intellectual capacity. He suffers from a borderline mental handicap,,"['OffMentalOffence', 'DefEvidTypeTrial']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,"Rose J had directed the jury in clear terms that Ali’s interviews were not evidence against Charlton and that, if the case against Charlton depended on Ali’s evidence in court, the jury would not “for one moment contemplate convicting Charlton”.",First appeal judgement,['JuryInstruct']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,ALAN CHARLTON AND IDRIS ALI,"2 individual male appellents, offenders","['Appellent', 'OffSex', 'Co-defendants/co-accused', 'CoDefAccNum']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,Ali’s cell,Custody,['RemandDecision']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,"an account of glue-sniffing, drug-taking",,"['OffIntoxOffence', 'VicIntoxOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,He consistently denied any part in KP’s death.,Offender denies offence,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,"case against Charlton was the evidence of a woman we shall call D. Against Ali, the prosecution relied on his various confessions and admissions.","Eye-witness, confessions and admissions",['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,Ali was 16 and Charlton 21 years of age.,,['OffAgeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,"29 Fitzhamon Embankment, Cardiff",,['OffHomeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,facial reconstruction artist,Victim identification,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,"At that time she was nearly 16,",1 individual female victim,"['VictimType', 'VicNum', 'VicSex', 'VicAgeOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,On 11 November 1994 this court dismissed Charlton’s appeal but allowed Ali’s appeal and quashed his conviction.,Before appeals & retrials,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,Charlton to imprisonment for life with a minimum tariff of 15 years and ordered Ali to be detained at Her Majesty’s Pleasure.,Before appeals & retrials,"['Sentence', 'SentServe']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,He was sentenced to 6 years imprisonment and having served the equivalent term was released.,After appeals & retrials,"['Sentence', 'SentServe']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,manslaughter of Karen Price.,After appeals & retrials,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,jury,,['Jurytrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,the murder of Karen Price.,Before appeals & retrials,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,26 February 1991,Before appeals & retrials,['ConvictPleaDate']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,Cardiff Crown Court,,"['ConvCourtName', 'ConvCourtType', 'SentCourtName', 'SentCourtType']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2016/52,both appeal again against conviction upon references by the CCRC under s.9 Criminal Appeal Act 1995 on the basis that there is a real possibility that the Court of Appeal will consider that the appellants’ convictions are unsafe.,,"['AppealAgainst', 'AppealGround']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,"First, the judge had allowed certain evidence to be called which ought not to have gone before the jury. Secondly, the judge's direction concerning the applicant's good character was unsatisfactory. The Court of Appeal directed a retrial","Inadmissible evidence, retrial ordered","['VoirDire', 'VoirDireOutcome']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,He pleaded not guilty to all counts.,Offender denies offences,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,JC made allegations of sexual abuse,Victim testimony,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,"the judge imposed a sentence of imprisonment for public protection, with a minimum term of 7 years less time spent in custody on remand. He imposed various shorter determinate sentences in respect of the other counts","(Sentence received after retrial)
+Custody on remand","['Sentence', 'SentServe', 'RemandDecision']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,applicant was also in loco parentis towards SJ for some years while he was living with SJ's mother.,Fixed address,"['OffRelsOffence', 'OffVicRelation', 'OffDependsOffence', 'VicHomeOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,"the boys whom the applicant employed were SJ, JC and CS.",Employed in coach company,"['OffVicRelation', 'VicJobOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,"SJ, JC and CS.",3 individual male victims,"['VictimType', 'VicNum', 'VicSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,the judge made an entirely sensible case management decision for reasons which he set out with care. This court should not interfere. We therefore reject the second ground of appeal as put forward in the application.,,['ReasonDismiss']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,We can see no possible basis for saying that the applicant's conviction is unsafe.,,['ReasonDismiss']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,leave to appeal must be refused.,,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,PF,1 individual male offender,"['Appellent', 'OffSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,"first ground is that the judge erred in allowing joinder of a fresh indictment to the indictment upon which the Court of Appeal had ordered retrial. The second ground is that the judge erred in not allowing the defence to cross-examine the complainant, SJ, about allegations of violent misconduct as recorded in the school records. The third ground is that in all the circumstances the applicant's convictions are unsafe.",,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,Milton Keynes Crown Court in July and August 2011.,,"['ConvCourtName', 'ConvCourtType', 'ConvictPleaDate', 'SentCourtName', 'SentCourtType']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,June 2009 the applicant stood trial before Judge Coleman and a jury at Peterborough Crown Court sitting at Huntington,,"['ConvCourtName', 'ConvCourtType', 'ConvictOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,ran a coach company,,['OffJobOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,The Indictments Act 1915,,"['SentencingGuideline', 'SentGuideWhich']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,"We shall refer to the Criminal Justice Act 2003 as ""the 2003 Act"". Section 100(1) of the 2003 Act provides:",,"['SentencingGuideline', 'SentGuideWhich']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,"Criminal Appeal Act 1968 as the ""1968 Act"". Section 7 of the 1968 Act provides:",,"['SentencingGuideline', 'SentGuideWhich']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/720,leave to appeal against conviction,,['AppealAgainst']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,"the disqualification from driving, the order for an extended test and the committal for sentence were each unlawful.",,['ReasonSentExcess']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,"In giving his reasons for finding that there were no exceptional circumstances, the judge did not truly deal with those submissions. If he had done so, he should have reached a conclusion in favour of the appellant.",,['ReasonQuashConv']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,(3) quash the sentences that were imposed in respect of the summary offences; and (4) re-sentence.,,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,judge gave insufficient weight to the matters raised by him in support of the argument that in the case of the firearms,,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,the appellant's previous convictions aggravated the offending,,['AggFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,the principle of totality.,,"['SentGuideWhich', 'SentencingGuideline']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,"no exceptional circumstances. He stated that, first, the appellant was well aware",,['AggFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,"personal mitigation identified in the expert and pre-sentence reports, the appellant's young age, the principle of totality and the pleas of guilty.",,['MitFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,"Chartered Forensic Psychologist, which diagnosed a learning disability with an IQ of less than 70, and the report of an intermediary. 16.The pre-sentence report referred to the appellant's emotional, behavioural and social difficulties and vulnerability",Expert evidence,"['PreSentReport', 'OffMentalOffence', 'DefEvidTypeTrial']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,no intention to possess or use it in the future; and that he had no previous convictions for offences relating to weapons or violence.,,['MitFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,made off without payment.,Eye-witness testimony,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,"Detention in a young offender institution for a total period of six years two months was imposed, together with other orders, including disqualification from driving for seven years and one month.",,"['Sentence', 'Ancillary', 'WhatAncillary', 'SentServe']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,"In respect of the second and third group of offences, save the firearms charge, the appellant entered or indicated pleas of guilty at an early stage. He pleaded not guilty to the firearms of charge, but on the morning of the trial, 9th July 2018, entered a plea of guilty.",,"['Confess/Plead', 'PleaPoint']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,leave to appeal in respect of the sentences,,['AppealAgainst']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,and had used drugs;,,['OffIntoxOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,"possessing a disguised firearm, contrary to section 5(1A)(a) of the Firearms Act 1968, dangerous driving and driving while disqualified.",Offence1,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,again released on bail.,After 2nd offence,['RemandDecision']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,"He was arrested, charged and released on bail.",After 1st offence,['RemandDecision']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,"Following his pleas,",,['Confess/Plead']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,committed for sentence by the magistrates' court,,['SentCourtType']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,"He had already acquired a bad record,",,['AggFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,appellant was aged 18.,,['OffAgeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,13th August 2018.,,['ConvictPleaDate']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,Crown Court at Manchester,,"['ConvCourtName', 'ConvCourtType']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,MOHAMMED  SHAHEL  HUSSAIN,1 individual male offender,['Appellent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/362,The appeal is allowed to the extent we have indicated.,,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,previous conviction,,['AggFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,submitted that the Recorder failed properly to direct the jury,,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,He reminded the jury about the evidence of the appellant's conviction for robbery. He warned them against prejudice and over-reliance on the evidence. He also explained why they had heard it,,['JuryInstruct']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,"on behalf of the appellant, submits that the Recorder erred in admitting the bad character evidence. He failed to focus on the real issue in the case,",,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,17th February 2017,,['ConvictPleaDate']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,"Crucially, the jury was told that they could not and should not convict solely on the basis of the previous conviction, but that it was to be borne in mind when considering the improbability of multiple coincidences.",,['JuryInstruct']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,"prosecution had a strong circumstantial case, and the appellant's equivocations in interview and his failure to mention matters later relied on cannot have assisted him in the eyes of the jury. We do not regard this conviction as unsafe.",,['ReasonDismiss']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,the appeal will be dismissed.,,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,threatened a security guard,"1 individual male victim, stranger
+2 total","['VicJobOffence', 'VicSex', 'VicNum', 'OffVicRelation', 'VictimType']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,The appellant had pleaded guilty to an offence of robbery on 3rd March 2003 in the Crown Court at Manchester.,,"['Confess/Plead', 'PleaPoint']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,He worked full-time as an electrician.,,['OffJobOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,found at the appellant's home.,Fixed address,['OffHomeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,appellant's girlfriend,,['OffRelsOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,"appellant had provided an alibi in his defence statement,",,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,attacked the shopkeeper,"1 individual male victim, stranger","['VicSex', 'VicNum', 'VictimType', 'VicJobOffence', 'OffVicRelation']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,Eyewitness and police evidence was largely agreed. The prosecution relied on the following circumstantial and expert evidence,,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,"In his police interview he denied being involved in the robbery, but was unable to provide details of where he was at time",Denied offence,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,against his conviction on count 3,,['AppealAgainst']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,"A co-defendant, Matthew Baines,",1 individual male co-defendant,"['Co-defendants/co-accused', 'CoDefAccNum']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,single count of robbery (count 3 on the indictment).,,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,5 years' imprisonment.,,"['Sentence', 'SentServe']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,jury,,['Jurytrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,Crown Court at Warwick,,"['ConvCourtName', 'ConvCourtType']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/1851,DANIEL  GLEN  HAY,1 individual male offender,"['Appellent', 'OffSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,met a young woman,Stranger,['OffVicRelation']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,"psychological evidence. The defence called a consultant psychologist, Miss Jennifer Cutler, who carried out an assessment of the appellant and found him to have Asperger's Syndrome.",,"['DefEvidTypeTrial', 'OffMentalOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,Both the appellant and L had been drinking heavily.,,"['OffIntoxOffence', 'VicIntoxOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,no recollection of events,Denied memory of offence,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,the jury did indeed deliberate free from any pressure of time.,,['ReasonDismiss']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,This appeal is dismissed.,,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,"And so my direction is this: if in the time available, which will be a little over two hours, if in that time, you are able, conscientiously to reach verdicts on the evidence, then obviously you will be able to reach verdicts. If within that time you cannot reach verdicts, obviously there is no more available time and so what I would be left to do is to discharge you from giving verdicts so the case can be retried on a later date, do you follow me?",,['JuryInstruct']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,"In addition to the factual evidence of witnesses who were present in the early hours of 4 March, at trial there was also expert evidence to assist the jury.","Eye-witness testimony, expert evidence",['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,appellant's flat.,,['OffHomeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,student at Hull University.,,['OffJobOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,"the appellant, then aged 19 years and 11 months",,['OffAgeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,against conviction essentially on the ground that the jury was put under undue pressure of time to reach its verdict.,,"['AppealAgainst', 'AppealGround']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,April 2009,,['ConvictPleaDate']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,Count 1 was sexual assault by penetration contrary to section 2 of the Sexual Offences Act 2003 and count 2 was false imprisonment.,,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,York Crown Court,,"['ConvCourtName', 'ConvCourtType']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,L.,1 individual female victim,"['VicNum', 'VictimType', 'VicSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,jury,,['Jurytrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2010/712,PAVLOS GEORGIOU KAZANTZIS,Individual male offender,"['Appellent', 'OffSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,At interview he initially denied the offences.,Offender (initially) denied offence,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,under the age of 21:,18-21,['OffAgeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,"He had burgled people's houses, stolen and damaged their cars and attacked those who had tried to stop him",3 victims in total,['VicNum']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,hitting the officer in the face,Victim3: 1 individual male police officer,"['VictimType', 'VicJobOffence', 'VicSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,A postman saw the appellant behaving oddly. The vehicle was found,Eye-witness testimony,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,A postman saw the appellant behaving oddly.,Eye-witness testimony,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,"appellant was only 18 years of age at the time; that he had never received a custodial sentence before; that he had pleaded guilty at the first opportunity; and that, although he has previous convictions, his record was by no means serious.",,['MitFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,"principle of totality,",,"['Sentence', 'SentGuideWhich']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,"""spree"" of serious offending",,['AggFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,complete disregard of the law in relation to driving. He had the previous conviction,,['AggFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,his time on remand,,['RemandDecision']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,In a pre-sentence report,,['PreSentReport']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,appellant is 19 years of age.,,['OffAgeConvSen']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,work entailed being mainly in the outbuilding,Employed,['OffJobOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,son of a friend of hers.,Victim1: acquainted,['OffVicRelation']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,his mother's handbag £20,Victim2: relative,"['VicNum', 'VictimType', 'VicSex', 'OffVicRelation']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,"Lynne O'Connell,","Victim 1: individual female
+
+","['VictimType', 'VicSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,her house,Victim 1:Fixed address,['VicHomeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,"The total sentence, therefore, was one of 18 months' imprisonment (sic).","Offence1: four months imprisonment Offence2&3: two months imprisonment. concurrent on each, but consecutive to the other sentences. Offence4&5: no seperate penalites save for an endorsement of licence. Offence6, 7, 8 & 9: sentences of six months' imprisonment (sic) concurrent inter se, but consecutive to the other sentences. Offence10 & 11: six months' imprisonment (sic) concurrent inter se, but otherwise consecutive. Offence12&13: endorsement of licence","['Sentence', 'SentServe', 'ConvictOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,pleaded guilty in the magistrates' court on the occasion of his first appearance.,,"['Confess/Plead', 'PleaPoint']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,serious errors which led to the unlawful sentences,,['ReasonSentExcess']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,disqualified from driving,,"['Ancillary', 'WhatAncillary']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,The appeal is allowed to the extent that we have indicated.,,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,appeal against sentence,,['AppealAgainst']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,sentence of imprisonment was unlawful and was plainly an error for a sentence of detention in a young offender institution since the applicant was under the age of 21,,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,13 offences,"1 - domestic burglary
+2 - theft
+3 - taking without consent
+4 - driving without insurance
+5 - driving without licence
+6 - burglary
+7 - burglary
+8 - taking without consent
+9 - attempted burglary
+10 - aggravated taking without consent
+11 - assault with intent to resist arrest
+12 & 13 - driving without insurance",['Sentence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,domestic burglary.,,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,Crown Court at Guildford,,"['SentCourtName', 'SentCourtType']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2008/553,JAMES  IAN  McNEILL,1 individual male offender,"['Appellent', 'OffSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,Crown Court at Liverpool,,"['SentCourtName', 'SentCourtType', 'ConvCourtName', 'ConvCourtType']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,"denied the assault in the house, saying he had driven straight home from the pub.",Offender denies part offence,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,"On the other hand, there was substantial mitigation, strongly relied upon by Mr Mills. First, his early plea of guilty. Second, his real remorse. Third, that no permanent injury appears to have been occasioned to the victim. Fourth, that the offender is of effective previous good character.",,['MitFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,"The following aggravating features are identified with the commission of this offence. First, the offender deliberately armed himself with a weapon. Secondly, he entered the victim's house at night as a trespasser, and third, he assaulted him whilst he was asleep.",,['AggFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,"double jeopardy,",,['MitFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,"considerable mitigation in this case, not least the offender's early plea of guilty.",,['MitFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,He has a daughter aged 13,,['OffDependsOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,needed help with motivation to find employment.,Unemployed,['OffJobOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,the offender as living alone in a flat rented from the local authority,,['OffHomeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,"pre-sentence report in which the author said that the use of a weapon and the premeditation involved were both aggravating factors, as indeed they were. But he nevertheless identified the offender as having a low risk of reoffending",Low risk of reoffending,"['AggFactSent', 'PreSentReport', 'PreSentReportNew']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,offender was 36 at the time,,['OffAgeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,The head wound was closed under local anaesthetic with six stitches.,Victim testimony,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,he got home,Fixed address,['VicHomeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,"Mr Chris Walls, and his partner, Louise Gallagher",2 individual victims 1 male 1 female,"['VicRelsOffence', 'VicNum', 'VictimType', 'VicSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,the offender seemed quite drunk,,['OffIntoxOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,him,,['OffSex']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,we think that the sentence that ought now to be imposed is one of 3 years' imprisonment. We accordingly make that order.,Allowed,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,"The offender, whom they both knew,",Acquainted,['OffVicRelation']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,this sentence does not reflect the gravity of the offence.,,"['AppealGround', 'ReasonSentLenient']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,"8 months' imprisonment, suspended for 18 months, with a suspension period of 18 months",,"['Sentence', 'SentServe']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,Following preparation of a pre-sentence report,,['PreSentReport']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,wounding with intent contrary to section 18 of the Offences Against the Person Act 1861.,,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,on the ground that it is unduly lenient.,,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2007/1530,REFERENCE BY THE ATTORNEY GENERAL,,['Appellent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,Crown Court at Liverpool,,"['ConvCourtName', 'ConvCourtType', 'SentCourtType', 'SentCourtName']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,"The judge did, of course, give a general direction on the burden and standard of proof at a different point",,['JuryInstruct']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,came in and sat by him.,Unacquainted / stranger,['OffVicRelation']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,had a pint of lager in another public house,,['VicIntoxOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,he had had one pint of lager,,['OffIntoxOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,"the case for the appellant was damaged by the errors to which we have referred and we do not feel able to say that the conviction is nevertheless, in all the circumstances, safe.",Legal/trial judge errors,['ReasonQuashConv']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,We are told that he is presently on home detention curfew and has been for some weeks.,Tagged/ home bail,['RemandDecision']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,"Accordingly, we shall allow the appeal and quash the conviction.",,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,jury,,['Jurytrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,concern about the way in which the evidence of the previous convictions was adduced remains as a ground of appeal.,,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,"Another witness, Ryan McCarron, was called on behalf of the defence.",Eye-witness testimony,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,independent witness,Eye-witness testimony,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,"had acted in self-defence. Moreover, it was the defence case that there had been no kick to the head",Offender acted in self defence & denied part of offence,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,The prosecution case was of a wholly unprovoked attack.,Victim testimony,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,struck the complainant,1 individual male victim,"['VicNum', 'VictimType', 'VicSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,now appeals against conviction,,['AppealAgainst']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,15 months' imprisonment.,,"['Sentence', 'SentServe']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,inflicting grievous bodily harm pursuant to section 20 of the Offences Against the Person Act 1861.,,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,9th September 2005,,['ConvictPleaDate']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/694,ZANE ROY AINSCOUGH,Male offender,"['Appellent', 'OffSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,In due course,After first appearance,['PleaPoint']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,Crown Court at Teeside,,"['ConvCourtName', 'ConvCourtType', 'SentCourtType']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,order made under section 39 of the Children and Young Persons Act 1933.,,"['SentencingGuideline', 'SentGuideWhich']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,“any order restricting the publication of any report of the whole or any part of a trial on indictment or any such ancillary proceedings”.,,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,Solicitors acting for media interests wrote to the Recorder complaining about the wording of the order under section 39.,,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,It is common ground that the wording of the order went beyond that which is permissible under section 39. The leading authority is ex parte Godwin [1992] 1 QB 190.,Wording of the order,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,On 12 October 2004 the Recorder of Middlesborough made an order under section 39 of the Children and Young Persons Act 1933.,,['AppealAgainst']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,"we allow this appeal, quash the order made by the Recorder and substitute a new section 39 order in conventional terms.",,"['ReasonQuashConv', 'AppealOutcome']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,S and his wife,,['OffRelsOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,daughter,relative,['OffVicRelation']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,11 year-old daughter,1 individual female ,"['VictimType', 'VicNum', 'VicSex', 'VicAgeOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,He was initially sentenced to 12 years’ imprisonment but the sentence was reduced on review to eight years’ imprisonment.,Sentence for L,"['Sentence', 'SentServe']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,He was sentenced to a total of 14 years’ imprisonment on that day but on 4 March 2005 the Recorder reviewed the sentence and reduced it to one of 10 years.,Sentence for S,"['Sentence', 'SentServe']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,L pleaded guilty to eight Counts relating to offences contrary to section 1 of the Protection of Children Act. He too pleaded not guilty to conspiracy to rape but was convicted of it on 18 February 2005.,L pleaded guilty to eight of ten counts,['Confess/Plead']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,S pleaded guilty to nine Counts relating to offences contrary to section 1 of the Protection of Children Act 1978. He pleaded not guilty to the conspiracy but was convicted of it on 18 February 2005.,S pleaded guilty to nine of ten counts,['Confess/Plead']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,18 February 2005.,,['ConvictPleaDate']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,S took such photographs of his 11 year-old daughter,Had children,['OffDependsOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,"two men, S and L, were being prosecuted for offences contrary to section 1 of the Protection of Children Act 1978 and for conspiracy to rape.",2 individual male offenders,"['OffSex', 'ConvictOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/1983,"TEESIDE CROWN COURT– ex parte GAZETTE MEDIA COMPANY LTD AND OTHERS
+            
+              Appellant",,['Appellent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,"it would be appropriate to make an order that the appellants pay the costs of the prosecution today in the sum of £1,250 which will be divided equally between the two appellants.",Compensation orders,"['Ancillary', 'WhatAncillary']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,both of these appellants have been on bail at some stage and accordingly they must be returned to custody to complete their sentences.,Remanded into custody,['RemandDecision']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,The appellants traded together under the name Bionic Records.,Trading,['OffJobOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,"we do not consider that there is anything in the argument that the evidence of Mr Vernells should not have been admitted, or that the way in which it was given could in any way render the convictions of these two appellants unsafe.",,['ReasonDismiss']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,we dismiss these appeals.,,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,"The evidence was that of a Mr Vernells. He gave factual evidence in relation to the discs which were seized, but he also gave expert evidence to this extent.","Expert report/testimony, eye-witness testimony",['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,"the appellants' own evidence was essentially to the effect that they were aware that bootleg recordings were not recordings which were likely to have been recordings approved by the holders of the trade marks, and, indeed, were recordings capable of being sold at an enhanced price, one can only surmise, for that very reason.",Offender denies offence,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,The jury decided that it was not made out and it was in those circumstances they convicted.,Unanimous,['JuryDecisionType']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,second general ground of appeal relates to a discrete issue relating to evidence,,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,form of the indictment.,,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,"The jury were then directed that they should consider whether or not the defence under section 92(5) had been established, namely, as the judge put it, that the defendants believed on reasonable grounds that the use of the sign in the manner in which it was used was not an infringement of the registered trade mark. It was in the light of those directions that the jury convicted",,['JuryInstruct']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,seven day trial,,['Jurytrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,MARK WAKEFIELD AND MARK ANDREW PURSEGLOVE,2 individual male offenders,"['Appellent', 'OffSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,appeal against conviction with leave of the single judge.,,['AppealAgainst']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,six counts of unauthorised use of trade marks contrary to sections 92(1) and 104(1) of the Trade Marks Act 1994 and were sentenced to four months' imprisonment on each count concurrently.,,"['Sentence', 'SentServe', 'ConvictOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,Crown Court at Reading,,"['ConvCourtName', 'ConvCourtType', 'SentCourtName', 'SentCourtType']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/2278,On 6th June 2003,,['ConvictPleaDate']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2022/83,16 January 2020 in the Crown Court at Chelmsford,,"['SentCourtType', 'SentCourtName']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2022/83,The only issue raised concerns the application of the credit period for the purposes of section 240A of the Criminal Justice Act 2003 in respect of 150 days spent on qualifying curfew.,,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2022/83,RHYS MORAR,Offender,"['Appellent', 'OffSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2022/83,"concurrent sentences of equal length being imposed on two counts of being concerned in the supply of class A drugs, contrary to section 4(3)(b) of the Misuse of Drugs Act 1971.",,"['SentServe', 'ConvictOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2022/83,extension of time of 670 days for leave to appeal sentence,,['AppealAgainst']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2022/83,To this extent the appeal will be allowed and the sentence amended accordingly.,,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2022/83,earlier guilty pleas,Date not specified,['Confess/Plead']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2022/83,59 months' imprisonment,,['Sentence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,judge also said in the context of mitigation that he did not accept that there was any convincing evidence of psychiatric history,No other mit factors addresses,['MitFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,long history of mental health complaints and treatment by local mental health services.,Other (history of MH),['OffMentalOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,he was advised to plead guilty.  We are unable to accept that assertion.,Defence was improper legal advise,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,acting together with the other two for the whole enterprise,,['AggFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,"set fire to his body and his head, using torn clothing.  They then tried to burn down the flat to destroy evidence",,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,RUBEN  THOMAS  PATRICK  HOATHER,,"['Appellent', 'OffSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,"two co-accused, Wiltshire and Wood,",2,"['Co-defendants/co-accused', 'CoDefAccNum']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,"alcohol, cannabis and cocaine were consumed.",,"['VicIntoxOffence', 'OffIntoxOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,Jordan Campbell was the applicant's half-brother.,1 individual victim,"['OffVicRelation', 'VicSex', 'VictimType', 'VicNum']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,pleaded guilty to murder.,,"['Confess/Plead', 'ConvictOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,life imprisonment with a minimum term of 19 years (less time spent on remand).,,"['Sentence', 'RemandDecision']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,"6th February 2015,",,"['ConvictPleaDate', 'PleaPoint']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,Crown Court at Liverpool,,"['ConvCourtName', 'ConvCourtType', 'SentCourtName', 'SentCourtType']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,no arguable merit in the applicant's proposed grounds of appeal.,,['ReasonDismiss']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,finally feels sufficiently mentally stable to be able to do so.,,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,"If the application for leave to appeal was within time, we would refuse it.  In the event, we simply refuse the application for an extension of time.",,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2023/231,against his conviction,,['AppealAgainst']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,"He had numerous contacts in the terrorist world. He was determined and sophisticated in what he did, and devoted his whole energies to the task of recruiting.",,['AggFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,"mitigatory effect on the basis that nobody had actually gone abroad to fight as a result of his activities and also that he had no relevant previous convictions, those factors were clearly taken into account",,['MitFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,Crown Court sitting in Manchester.,,"['ConvCourtName', 'ConvCourtType', 'SentCourtType', 'SentCourtName']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,The Watson direction,,['JuryInstruct']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,Farooqi ran a Da’wah stall in Manchester promoting Islamic material.,,['OffJobOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,,"Two offenders considered victims of another offenders radicalisation, are we still attaching following tags?
+
+VictimType
+VicNum
+VicSex
+VicAgeOffence
+VicJobOffence
+VicRelsOffence
+VicDependsOffence
+VicHomeOffence
+VicMentalOffence
+VicIntoxOffence
+",[]
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,"These submissions have focused largely but not exclusively on Mr McNulty’s cross-examination of Ray and Simon, on a number of legal submissions","Victim not credible/is unreliable, question admissibility of (police testimony)",['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,conviction is unsafe for a number of related reasons.,"Safety of convictions, improper representation, defied court rulings, unfair trial","['AppealGround', 'AppealAgainst']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,We see no basis upon which it could properly be argued that either the IPP or the minimum term were manifestly excessive.,,['ReasonDismiss']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,Farooqi assisted by co-defendants.,,['Co-defendants/co-accused']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,"Two undercover police officers, “Ray” and “Simon”",Police testimony,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,Malik’s age (20 at the time,,['OffAgeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,unanimous verdicts of guilty against Malik on the remaining counts,,['JuryDecisionType']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,majority direction,,['JuryInstruct']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,jury returned a unanimous verdict of guilty against Malik on Count 8.,,['JuryDecisionType']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,the jury returned unanimous guilty verdicts on all counts against Farooqi and Newton and returned their verdict of not guilty on the one count faced by Harris Farooqi.,,['JuryDecisionType']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,These appeals and applications are accordingly dismissed or refused.,,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,"Farooqi, Newton and Malik seek leave to appeal against their convictions. Farooqi and Malik also seek leave to appeal against sentence.",,['AppealAgainst']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,remand in custody.,,['RemandDecision']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,"imprisonment for public protection (IPP) with a minimum specified term of five years on Counts 9 and 10, concurrent, with no separate penalty on Count 8.",,"['Sentence', 'SentServe']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,"imprisonment for life with a specified minimum term of nine years on Count 1, to imprisonment for life with a specified minimum term of seven years on Counts 3. 6 and 7 and to a term of four years’ imprisonment on Count 4. The sentences were concurrent.",,"['Sentence', 'SentServe']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,"six years’ imprisonment on Count 1, three years’ imprisonment on Count 2 and four years’ imprisonment on Count 5. The sentences were concurrent.",,"['Sentence', 'SentServe']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,Malik was convicted of one count of engaging in conduct in preparation for acts of terrorism contrary to section 5 (1) of the Act (Count 8) and two counts of soliciting to murder contrary to section 4 of the Offences Against the Persons Act 1861 (Counts 9 and 10).,,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,Newton was convicted of one count of engaging in conduct in preparation for acts of terrorism contrary to section 5(1) of the Act (Count 1) and of two counts of dissemination of terrorist publications contrary to section 2(1) (a) and (2) (b) of the Act (Counts 2 and 5).,,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,"Farooqi was convicted on five counts: one count of engaging in conduct in preparation for acts of terrorism contrary to section 5(1) of the Terrorism Act 2006 (the Act) (Count 1), three counts of soliciting to murder contrary to section 4 of the Offences Against the Persons Act 1861 (Counts 3, 6 and 7) and one count of dissemination of terrorist publications contrary to section 2(1) (a) and (2) (b) of the Act (Count 4).",5 of 10 counts,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,"and Harris Farooqi was acquitted of involvement in the single count which affected him, Count 1.",,['AcquitOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,Between 16th May 2011 and 9th September 2011,,['ConvictPleaDate']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,jury,,['Jurytrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1649,"Munir Ahmed Farooqi
+            
+              Matthew Newton
+            
+              Israr Hussain Malik",3 individual male. Offenders,"['Appellent', 'OffSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,no basis for holding that the trial was unfair or that the verdict is unsafe. This evidence was properly admitted.,,['ReasonDismiss']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,"Count 1, conspiracy to murder,",,"['ConvictOffence', 'AcquitOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,"appellant was convicted on count 2. On 8 June 2012 he was sentenced to life imprisonment, with a minimum term of 23 years.",,['Sentence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,jury,,['Jurytrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,submitted by Mr Orchard QC that the judge's ruling was wrong.,,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,"appellant was in custody, having been charged with murder.",Remanded in custody,['RemandDecision']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,The appeal is dismissed.,,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,"expert evidence, the Crown called Dr Swift, a forensic pathologist, and Professor Myers, a burns expert.",Expert testimony,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,The prosecution's case was that the appellant was responsible for murdering the deceased.,,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,The defence case was that the appellant was not responsible for murdering his sister-in-law. The appellant denied presence at the time she died.,Alibi,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,Fiza Asif (Arshad's wife).,"1 individual victim, relative","['VictimType', 'VicNum', 'VicSex', 'VicRelsOffence', 'OffVicRelation']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,"brother, Mohammed Arshad",1,"['Co-defendants/co-accused', 'CoDefAccNum']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,deceased's youngest child.,Had children,['VicDependsOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,"address in Palmerston Road, Walthamstow",Fixed address,"['OffHomeOffence', 'VicHomeOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,appellant appeals against conviction,,['AppealAgainst']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,Central Criminal Court,Crown,"['ConvCourtType', 'ConvCourtName', 'SentCourtType']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,Count 2 alleged murder in that between 2 and 4 January 2011 they murdered Fiza Asif.,,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,Friday 26 April 2013,,['ConvictPleaDate']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/801,ABDUL  JABBAR,,"['Appellent', 'OffSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,to the police they had become the target of racist abuse and harassment during 2007,Victim Testimony,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,their daughter's safety.,,['VicDependsOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,record of convictions going back to 1995,,['AggFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,no evidence that any attack was actually planned or imminent.,,['MitFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,ot actually manufactured an explosive,,['MitFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,well-known principle of totality.,,"['SentencingGuideline', 'SentGuideWhich']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,Mr and Mrs Chowdhery.,"2 Individual Victims, 1 male, 1 female","['VicNum', 'VicSex', 'VictimType', 'VicRelsOffence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,appellant was born on 27th March 1973.,38 years old.,"['OffAgeOffence', 'OffAgeConvSen']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,NATHAN LUKE WORRELL,"Offender
+","['Appellent', 'OffSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,lived on the same estate,Neighbours / Strangers,['OffVicRelation']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,lived on the same estate as the appellant.,,['VicHomeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,"He submitted firstly that the 6 year sentence of imprisonment on count 2 was too long. Secondly, that the sentences should be concurrent rather than consecutive, and thirdly, he relies on the well-known principle of totality.",,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,It cannot be said that the total sentence was wrong in principle or manifestly excessive.,,"['ReasonDismiss', 'ReasonSentExcess']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,appeal is dismissed.,,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,He appeals against sentence,,['AppealAgainst']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,one bedroomed flat on a council estate,,['OffHomeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,"a total of 7 years and 3 months' imprisonment, with a direction under the Criminal Justice Act 2003 that 390 days he had spent on remand should count",2 counts served consecutively.,"['SentServe', 'Sentence']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,390 days,,['RemandCustodyTime']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,remand,,['RemandDecision']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,possession of articles for terrorist purposes,,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,"aggravated intentional harassment,",,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,Crown Court at Grimsby,,"['ConvCourtName', 'SentCourtType', 'SentCourtName', 'ConvCourtType']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,jury,,['Jurytrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/1431,12th December 2008,,['ConvictPleaDate']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,Sharleen Ellis and Latisha Shakespeare received fatal gunshot wounds. Sophie Ellis and Cheryl Shaw were badly injured.,"5 individual victims, 4 females, 1 male, 3 fatalities","['VicNum', 'VicSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,"Gregory’s girlfriend,",Ellis Appeal,['OffRelsOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,Martin’s girlfriend,Ellis Appeal,['OffRelsOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,Gregory’s flat.,Ellis Appeal,['OffHomeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,important evidence linking all four appellants.,Ellis Appeal,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,"Martin’s brother Yohanne, was shot dead.",Ellis Appeal,['OffVicRelation']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,"Marcus Ellis, Michael Gregory and Nathan Martin",Offenders in Ellis Appeal,"['Appellent', 'OffSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,Rodrigo Simms,Offender in Ellis Appeal,"['Appellent', 'OffSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,Ashley Kenton and Wayne Mowatt were shot dead.,2 individual male victims in Ellis Appeal,"['VicNum', 'VictimType', 'ProsEvidTypeTrial', 'VicSex']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,the jury was asked to consider his case as if she was the witness with a personal grudge against the appellant,Davis Appeal,['JuryInstruct']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,"We cannot detect any reason for doubting the integrity of the trial process, or the safety",Ellis Appeal,['ReasonDismiss']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,These appeals are dismissed.,Ellis Appeal,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,safety of these convictions,Ellis Appeal,['AppealAgainst']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,safety of these convictions.,Davis Appeal,['AppealAgainst']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,"co-accused Tafarwa Beckford, who was acquitted",1 co-accused in Ellis Appeal,"['Co-defendants/co-accused', 'CoDefAccNum']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,This appeal is accordingly dismissed.,Davis Appeal,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,the appellant was the victim of a corrupt plot to implicate him,Davis Appeal,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,undisputed evidence from a detective officer,Police testimony,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,absence of any or any significant attempt at concealment.,Both appeals.,['AggFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,econd death was “accidental”,Stranger. Davis Appeal. ,['OffVicRelation']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,short-lived grudge.,Acquaintance. Davis Appeal. ,['OffVicRelation']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,"Simms was convicted of the same counts of murder, and two of the three counts of attempt murder.",,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,Iain Davis,Offender in Davis Appeal,['Appellent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,two counts of murder.,Davis Appeal.,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,"two counts of murder and three counts of attempt murder,",,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,Leave was given in the Ellis appeal because it appeared that an important point about the anonymity of witnesses was a common and significant feature of both cases. The appeals were heard consecutively,Same grounds for both unrelated appeals.,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,Central Criminal Court,Crown court. For Ellis Appeal,['ConvCourtName']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,"Birmingham Crown Court,",For Davis Appeal,['ConvCourtName']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,25th May 2004,For Davis Appeal,['ConvictPleaDate']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,"On 18 March 2005,",For Ellis Appeal,['ConvictPleaDate']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,jury,For  Ellis Appeal.,['Jurytrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2006/1155,jury,For Davis Appeal.,['Jurytrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2003/3,MICHAEL JONES,MICHAEL JONES is name of appellant. Inferred that appellant is offender.,['Appellent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2003/3,"a point of law of general public importance is involved in our decision, in accordance with s.33(2) of the Criminal Appeal Act 1968, and to grant leave to appeal to the House of Lords in accordance with s.34(1) of that Act.",,['AppealGround']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2003/3,"Leave to appeal to the House of Lords is, however, refused.",,['AppealAgainst']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,fined £500.,,['Sentence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,Crown Court at Truro,,['SentCourtName']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,Crown Court at Truro,,['SentCourtType']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,Crown Court at Truro,For appellent's current trial he was represented at a hearing on the following day. (paragraph 12).,['ConvCourtName']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,Jehovah's Witness.,,['OffJobOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,Mr Little's submission that the circumstances here are very different from those of a religious confession.,,['ProsEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,"in the very particular and unusual circumstances of this case, there was a serious procedural unfairness in not fully and clearly explaining to the appellant",,['ReasonSentExcess']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,"There was, therefore, a material irregularity in the proceedings.",,['ReasonQuashConv']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,the finding of contempt of court is quashed.,,['AppealOutcome']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,Attorney General v Mulholland and Foster [1963] 2 QB 477,,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,the jury had been directed to return their not guilty verdict,,['JuryInstruct']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,ground of appeal is that the judge erred in finding the appellant to be in contempt of court.,,"['AppealGround', 'AppealAgainst']"
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,appellant's sincere,,['MitFactSent']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,NICHOLAS WARNER,,['OffSex']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,"aged 53,",-,['OffAgeOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,Crown Court at Truro,-,['ConvCourtType']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,jury,-,['Jurytrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,He gave evidence that he had seen Mr Davies push Mr Jones from behind,Eye-witness testimony.,['DefEvidTypeTrial']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,contempt of court.,-,['ConvictOffence']
+https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/499,NICHOLAS WARNER,Offender.,['Appellent']
