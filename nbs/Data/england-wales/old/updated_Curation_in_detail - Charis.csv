@@ -1,0 +1,1772 @@
+Coding,Description,tag_name,[2003] EWCA Crim 3,[2003] EWCA Crim 2243,[2004] EWCA Crim 2278,[2005] EWCA Crim 1983,[2006] EWCA Crim 2916,[2006] EWCA Crim 694,[2006] EWCA Crim 1155,[2007] EWCA Crim 1530,[2008] EWCA Crim 553,[2009] EWCA Crim 1431,[2010] EWCA Crim 712,[2012] EWCA Crim 720,[2013] EWCA Crim 801,[2013] EWCA Crim 1649,[2016] EWCA Crim 52,[2017] EWCA Crim 1851,[2018] EWCA Crim 1766,[2019] EWCA Crim 362,[2020] EWCA Crim 499,[2022] EWCA Crim 83,[2023] EWCA Crim 231
+ConvCourtType Court Type where Offender was Convicted/Pled Guilty?,Magistrates’ court/Crown court,ConvCourtType,"NA
+
+Exact: TAUNTON CROWN COURT;
+
+ Comment: Crown Court","Exact: Crown Court at Basildon;
+
+ Comment: Crown Court
+
+Exact: Crown Court;
+
+ Comment: Crown Court","Exact: Crown Court;
+
+ Comment: ","Exact: Crown Court;
+
+ Comment: ",,"Exact: Crown Court;
+
+ Comment: ","Exact: Crown Court;
+
+ Comment: 
+
+Exact: Criminal Court;
+
+ Comment: Crown court","Exact: Crown Court;
+
+ Comment: ","Exact: Crown Court;
+
+ Comment: ","Exact: Crown Court;
+
+ Comment: Crown Court","Exact: Crown Court;
+
+ Comment: ","Exact: Crown Court;
+
+ Comment: ","Exact: Central Criminal Court;
+
+ Comment: Crown Court","Exact: Crown Court;
+
+ Comment: ","Exact: Crown Court;
+
+ Comment: ","Exact: Crown Court;
+
+ Comment: ","Exact: Magistrates' Court;
+
+ Comment: ","Exact: Crown Court;
+
+ Comment: ","Exact: Crown Court at Truro;
+
+ Comment: Crown Court","Don't know
+
+Exact: Crown Court;
+
+ Comment: ","Exact: Crown Court;
+
+ Comment: "
+ConvCourtName(s) Court Name(s) where Offender Convicted/Pled Guilty,Text (List all courts if convicted/pled guilty at MORE than one court),ConvCourtName,"NA
+
+Exact: TAUNTON CROWN COURT;
+
+ Comment: Taunton Crown Court","Exact: Crown Court at Basildon;
+
+ Comment: Crown Court at Basildon","Exact: Crown Court at Reading;
+
+ Comment: ","Exact: Crown Court at Teeside;
+
+ Comment: ",,"Exact: Crown Court at Liverpool;
+
+ Comment: ","Exact: Birmingham Crown Court;
+
+ Comment: 
+
+Exact: Central Criminal Court;
+
+ Comment: ","Exact: Crown Court at Liverpool;
+
+ Comment: ","Exact: Crown Court at Guildford;
+
+ Comment: ","Exact: Crown Court at Grimsby;
+
+ Comment: Crown Court at Grimsby","Exact: York Crown Court;
+
+ Comment: ","Exact: Peterborough Crown Court;
+
+ Comment: ","Exact: Central Criminal Court;
+
+ Comment: ","Exact: Crown Court sitting in Manchester.;
+
+ Comment: Manchester Crown Court ","Exact: Cardiff Crown Court;
+
+ Comment: ","Exact: Crown Court at Warwick;
+
+ Comment: ","Exact: Bristol Magistrates' Court;
+
+ Comment: ","Exact: Crown Court at Manchester;
+
+ Comment: ","Exact: Crown Court at Truro;
+
+ Comment: Crown Court at Truro","Don't know
+
+Exact: Crown Court at Chelmsford;
+
+ Comment: ","Exact: Crown Court at Liverpool;
+
+ Comment: "
+ConvictPleaDate Conviction/Guilty Plea Date(s),Numeric (List all),ConvictPleaDate,"NA
+
+Exact: 20.12.02;
+
+ Comment: 20.12.02","Exact: 27 January 2002;
+
+ Comment: ConvictPleaDate","Exact: 6th June 2003;
+
+ Comment: 06.06.2003","Exact: 18 February 2005;
+
+ Comment: 18.02.2005",,"Exact: 9th September 2005;
+
+ Comment: 09.09.2005","Exact: 18 March 2005;
+
+ Comment: 18.05.2005
+
+Exact: 25th May 2004,;
+
+ Comment: 25.05.2004","Exact: 27th February 2006;
+
+ Comment: 27.02.2006","Exact: 2 November 2007;
+
+ Comment: 02.11.2007","Exact: 12th December 2008;
+
+ Comment: 12.12.2008","Exact: April 2009;
+
+ Comment: 04.2009",,"Exact: 8 June 2012;
+
+ Comment: 08.07.2012","Exact: 9th September 2011;
+
+ Comment: 09.11.2011","Exact: 26 February 1991;
+
+ Comment: 26.02.1991","Exact: 17th February 2017;
+
+ Comment: 17.02.2017","Exact: 16 March 2018;
+
+ Comment: 16.03.2018",,"NA
+
+Exact: July 2018;
+
+ Comment: July 2018","Don't know
+
+Exact: 16 January 2020;
+
+ Comment: 16.01.2020","Exact: 6th February 2015;
+
+ Comment: 06/02/2015"
+"Was there a Jurytrial?
+If YES, JuryDecisionType","Yes/No/Don’t know
+If YES, Unanimous/Majority/Don’t know/NA",Jurytrial,NA,,"Exact: jury proceeded to consider the matter on the basis of that indictment;
+
+ Comment: Yes",Don't know,,"Exact: jury;
+
+ Comment: Yes","Exact: jury;
+
+ Comment: Yes
+
+Exact: jury;
+
+ Comment: Yes",No,No,"Exact: jury;
+
+ Comment: Yes","Exact: jury;
+
+ Comment: Yes","Exact: jury;
+
+ Comment: Yes","Exact: jury;
+
+ Comment: Yes","Exact: jury;
+
+ Comment: Yes","Exact: jury;
+
+ Comment: Yes","Exact: jury;
+
+ Comment: Yes",NA,No,"Exact: jury;
+
+ Comment: Yes",No,No
+,,JuryDecisionType,NA,NA,"Exact: jury convicted the appellants of the counts with which we are concerned.;
+
+ Comment: Don't know",NA,,Don't know,Don't know,NA,NA,,,Don't know,Don't know,"Exact: majority;
+
+ Comment: 
+
+Exact: unanimous;
+
+ Comment: 
+
+Exact: unanimous;
+
+ Comment: 
+
+Exact: unanimous;
+
+ Comment: ",Don't know,Don't know,NA,NA,"Exact: jury returned a not guilty verdict against Mr Davies;
+
+ Comment: Don't know",NA,NA
+ConvictOffence What Offence(s) was Offender Convicted of?,Text (List all),ConvictOffence,"NA
+
+Exact: indecent assault;
+
+ Comment: ","Exact: offence under section 85(3) of the Water Resources Act 1991 of causing sewage effluent to be discharged into the river Crouch;
+
+ Comment: ","Exact: six counts of unauthorised use of trade marks contrary to sections 92(1) and 104(1) of the Trade Marks Act 1994;
+
+ Comment: Unauthorised use of trade marks contrary to sections 92(1) and 104(1) of the Trade Marks Act 1994","Exact: making and distributing indecent photographs of a child;
+
+ Comment: Making and distributing indecent photographs of a child
+
+Exact: L was charged with the conspiracy to rape;
+
+ Comment: Conspiracy to rape",,"Exact: offence of inflicting grievous bodily harm pursuant to section 20 of the Offences Against the Person Act 1861;
+
+ Comment: ","Exact: two of the three counts of attempt murder;
+
+ Comment: 
+
+Exact: convicted of two counts of murder and three counts of attempt murder;
+
+ Comment: 
+
+Exact: convicted of two counts of murder;
+
+ Comment: ","Exact: to wounding with intent contrary to section 18 of the Offences Against the Person Act 1861;
+
+ Comment: Wounding with intent","Exact: assault with intent to resist arrest;
+
+ Comment: 
+
+Exact: aggravated taking without consent;
+
+ Comment: 
+
+Exact: taking without consent;
+
+ Comment: 
+
+Exact: attempted burglary;
+
+ Comment: 
+
+Exact: two burglaries;
+
+ Comment: 
+
+Exact: driving without insurance and without a licence;
+
+ Comment: 
+
+Exact: taking without consent;
+
+ Comment: 
+
+Exact: theft;
+
+ Comment: 
+
+Exact: It was a domestic burglary;
+
+ Comment: ","Exact: racially aggravated intentional harassment, alarm or distress;
+
+ Comment: 
+
+Exact: possession of articles for terrorist purposes;
+
+ Comment: ","Exact: false imprisonment;
+
+ Comment: 
+
+Exact: sexual assault by penetration;
+
+ Comment: ","Exact: three offences of rape, two indecent assaults, two sexual assaults, two offences of sexual activity with a child and one offence of causing a child to engage in sexual activity. The jury convicted the applicant on two counts of sexual assault against JC;
+
+ Comment: ","Exact: alleged murder;
+
+ Comment: 
+
+Exact: conspiracy to murder;
+
+ Comment: ","Exact: soliciting to murder;
+
+ Comment: 
+
+Exact: engaging in conduct in preparation for acts of terrorism;
+
+ Comment: 
+
+Exact: dissemination of terrorist publications;
+
+ Comment: 
+
+Exact: engaging in conduct in preparation for acts of terrorism;
+
+ Comment: 
+
+Exact: dissemination of terrorist publications;
+
+ Comment: 
+
+Exact: soliciting to murder;
+
+ Comment: 
+
+Exact: engaging in conduct in preparation for acts of terrorism;
+
+ Comment: ","Exact: convicted of the murder;
+
+ Comment: Murder","Exact: single count of robbery;
+
+ Comment: single count of robbery","Exact: assault by beating;
+
+ Comment: assault by beating
+
+Exact: causing grievous bodily harm with intent;
+
+ Comment: causing grievous bodily harm with intent","Exact: dangerous driving and driving while disqualified;
+
+ Comment: dangerous driving and driving while disqualified
+
+Exact: possessing a disguised firearm;
+
+ Comment: 
+
+Exact: dangerous driving, driving while disqualified and uninsured;
+
+ Comment: dangerous driving, driving while disqualified and uninsured
+
+Exact: filled up canisters with fuel to the value of £113 and made off without payment;
+
+ Comment: Did not pay for fuel
+
+Exact: Vauxhall Vectra vehicle while disqualified and uninsured.;
+
+ Comment: Driving while disqualified and uninsured","Exact: The appellant was found to be in contempt of court;
+
+ Comment: Contempt of court","Exact: two counts of being concerned in the supply of class A drugs, contrary to section 4(3)(b) of the Misuse of Drugs Act 1971;
+
+ Comment: Supply of class A drugs","Exact: murder;
+
+ Comment: Murder"
+AcquitOffence What Offence(s) was Offender Acquitted of?,N/A OR Text (List all),AcquitOffence,NA,NA,NA,NA,,NA,"Don't know
+
+Exact: Tafarwa Beckford, who was acquitted by direction of the judge;
+
+ Comment: Acquitted of murder charges",NA,NA,Don't know,NA,NA,"Exact: The brother was also acquitted at that stage on count 2;
+
+ Comment: Alleged murder
+
+Exact: He and his brother were both acquitted on count 1;
+
+ Comment: Conspiracy to murder","Exact: Harris Farooqi was acquitted;
+
+ Comment: Terrorism",,NA,NA,NA,NA,NA,NA
+"Did Offender Confess/Plead Guilty? 
+If YES, at what point during proceedings? PleaPoint","Yes/No
+If YES, in police presence/at first court appearance/in court after first appearance but before trial/in court at first day of trial/in court after first day of trial/Don’t know",Confess/Plead,NA,"Exact: appellant pleaded guilty;
+
+ Comment: Yes",No,,,No,No,"Exact: offender pleaded guilty;
+
+ Comment: Yes","Exact: He made full admissions and pleaded guilty in the magistrates' court on the occasion of his first appearance;
+
+ Comment: Yes",No,No,No,,No,"Exact: pleaded guilty to the manslaughter;
+
+ Comment: Yes",,,"Exact: pleas of guilty at an early stage;
+
+ Comment: Yes",NO,"Exact: Following his earlier guilty pleas;
+
+ Comment: ","Exact: applicant pleaded guilty to murder;
+
+ Comment: Yes"
+,,PleaPoint,NA,"Exact: The magistrates committed the case to the Crown Court for sentence;
+
+ Comment: at first court appearance",NA,"Exact: He too pleaded not guilty to conspiracy to rape but was convicted of it on 18 February 2005.;
+
+ Comment: In court
+
+Exact: In due course S pleaded guilty to nine Counts relating to offences contrary to section 1 of the Protection of Children Act 1978. He pleaded not guilty to the conspiracy but was convicted of it on 18 February 2005.;
+
+ Comment: In court",,NA,NA,"Exact: at the earliest opportunity;
+
+ Comment: Before trial",,NA,NA,NA,,NA,"Exact: pleaded guilty to the manslaughter;
+
+ Comment: At retrial",,,"Exact: pleas of guilty at an early stage;
+
+ Comment: Early stage",NA,Don't know,"Exact: applicant pleaded guilty to murder.  On the same day he was sentenced;
+
+ Comment: At first appearance in court"
+"What was the RemandDecision for Offender?
+If REMANDED in CUSTODY, duration? RemandCustodyTime","Unconditional Bail/Conditional Bail/ Remanded into custody/Don’t know
+If REMANDED in CUSTODY, list how long",RemandDecision,NA,NA,,Don't know,,,Don't know,Don't know,"Exact: Should the court feel that his time on remand;
+
+ Comment: Don't know",,Don't know,"Exact: less time spent in custody on remand;
+
+ Comment: Don't know",,"Exact: remand in custody;
+
+ Comment: Remanded in custody",,Don't know,NA,"Exact: again released on bail;
+
+ Comment: Bail
+
+Exact: bail;
+
+ Comment: Bail",NA,Don't know,
+,,RemandCustodyTime,NA,NA,Don't know,NA,,Don't know,Don't know,Don't know,Don't know,,Don't know,Don't know,Don't know,Don't know,Don't know,Don't know,NA,Don't know,NA,NA,Don't know
+SentCourtType Court Type where Offender was Sentenced,Magistrates’ court/Crown court,SentCourtType,NA,"Exact: Crown Court at Basildon;
+
+ Comment: Crown Court","Exact: Crown Court;
+
+ Comment: ","Exact: Crown Court;
+
+ Comment: ",,"Exact: Crown Court;
+
+ Comment: ","Exact: Crown Court;
+
+ Comment: 
+
+Exact: Central Criminal Court;
+
+ Comment: Crown Court","Exact: Crown Court;
+
+ Comment: ","Exact: magistrates' court;
+
+ Comment: ","Exact: Crown Court;
+
+ Comment: Crown Court",Don't know,"Exact: Crown Court;
+
+ Comment: ",,"Exact: Crown Court;
+
+ Comment: ","Exact: Crown Court;
+
+ Comment: ","Don't know
+
+Exact: Crown Court;
+
+ Comment: ","Exact: Crown Court;
+
+ Comment: ","Exact: entence by the magistrates' court;
+
+ Comment: Magistrates Court","Exact: Crown Court at Truro;
+
+ Comment: Crown Court","Exact: Crown Court;
+
+ Comment: ","Exact: Crown Court;
+
+ Comment: "
+SentCourtName Court Name where Offender Sentenced,Text,SentCourtName,NA,"Exact: Crown Court at Basildon;
+
+ Comment: Crown Court",,"Don't know
+
+Exact: Crown Court at Teeside;
+
+ Comment: ",,"Exact: Crown Court at Liverpool;
+
+ Comment: ","Exact: Birmingham Crown Court;
+
+ Comment: 
+
+Exact: Central Criminal Court;
+
+ Comment: ","Exact: Crown Court at Liverpool;
+
+ Comment: ",,"Exact: Crown Court at Grimsby;
+
+ Comment: Crown Court at Grimsby",Don't know,"Exact: Milton Keynes Crown Court;
+
+ Comment: ",,"Exact: Crown Court sitting in Manchester;
+
+ Comment: Manchester Crown Court","Exact: Cardiff Crown Court;
+
+ Comment: ","Don't know
+
+Exact: Crown Court at Warwick;
+
+ Comment: ","Exact: Crown Court at Bristol;
+
+ Comment: ",Don't know,"NA
+
+Exact: Crown Court at Truro;
+
+ Comment: Crown Court at Truro","Exact: Crown Court at Chelmsford;
+
+ Comment: ","Exact: Crown Court at Liverpool;
+
+ Comment: "
+"Sentence(s) Received
+If MORE than one sentence, then how are they to be served? SentServe","Text (List sentence for each offence)
+If MORE than one sentence, are they all concurrent/all consecutive/combination of consecutive and concurrent",Sentence,NA,"Exact: a fine of £60,000 will be substituted for the fine of £200,000 imposed in the Crown Court;
+
+ Comment: fine of £60,000","Exact: sentenced to four months' imprisonment on each count concurrently;
+
+ Comment: ","Exact: He was sentenced to a total of 14 years’ imprisonment on that day but on 4 March 2005 the Recorder reviewed the sentence and reduced it to one of 10 years;
+
+ Comment: 
+
+Exact: He was initially sentenced to 12 years’ imprisonment but the sentence was reduced on review to eight years’ imprisonment;
+
+ Comment: ",,"Exact: 15 months' imprisonment;
+
+ Comment: ",Don't know,"Exact: 8 months' imprisonment, suspended for 18 months, with a suspension period of 18 months;
+
+ Comment: 8 months' imprisonment, suspended for 18 months, with a suspension period of 18 months","Exact: six months' imprisonment;
+
+ Comment: 
+
+Exact: six months' imprisonment;
+
+ Comment: 
+
+Exact: two months' imprisonment;
+
+ Comment: 
+
+Exact: four months' imprisonment;
+
+ Comment: ",,Don't know,"Exact: with a minimum term of 7 years;
+
+ Comment: minimum 7 years' imprisonment",,"Exact: imprisonment for public protection (IPP) with a minimum specified term of five years;
+
+ Comment: 
+
+Exact: four years’ imprisonment;
+
+ Comment: 
+
+Exact: three years’ imprisonment;
+
+ Comment: 
+
+Exact: six years’ imprisonment;
+
+ Comment: 
+
+Exact: four years’ imprisonment;
+
+ Comment: 
+
+Exact: imprisonment for life with a specified minimum term of seven years;
+
+ Comment: 
+
+Exact: imprisonment for life with a specified minimum term of nine years;
+
+ Comment: ","Exact: detained at Her Majesty’s Pleasure.;
+
+ Comment: 
+
+Exact: imprisonment for life with a minimum tariff of 15 years;
+
+ Comment: ","Exact: 5 years' imprisonment;
+
+ Comment: ","Exact: five years and four months' imprisonment;
+
+ Comment: five years and four months' imprisonment","Exact: Detention in a young offender institution for a total period of six years two months was imposed;
+
+ Comment: ","Exact: He was fined £500.;
+
+ Comment: Fine","Exact: total sentence of 59 months' imprisonment, concurrent sentences of equal length;
+
+ Comment: 59 months' imprisonment","Exact: life imprisonment with a minimum term of 19 years;
+
+ Comment: life imprisonment with a minimum term of 19 years"
+,,SentServe,NA,NA,"Exact: sentenced to four months' imprisonment on each count concurrently;
+
+ Comment: Concurrent","Exact: He too pleaded not guilty to conspiracy to rape but was convicted of it on 18 February 2005. He was initially sentenced to 12 years’ imprisonment but the sentence was reduced on review to eight years’ imprisonment;
+
+ Comment: All concurrent
+
+Exact: He was sentenced to a total of 14 years’ imprisonment on that day but on 4 March 2005 the Recorder reviewed the sentence and reduced it to one of 10 years.;
+
+ Comment: All concurrent",,,Don't know,,"Exact: concurrent on each, but consecutive to the other sentences;
+
+ Comment: Combination of consecutive and concurrent","Exact: that the sentences should be concurrent rather than consecutive;
+
+ Comment: Consecutive",Don't know,,NA,"Exact: concurrent;
+
+ Comment: 
+
+Exact: concurrent;
+
+ Comment: 
+
+Exact: concurrent;
+
+ Comment: ",,,"Exact: concurrent;
+
+ Comment: Concurrent","Exact: concurrent;
+
+ Comment: concurrent
+
+Exact: consecutively;
+
+ Comment: consecutively 
+
+Exact: concurrently;
+
+ Comment: concurrent",,"Exact: total sentence of 59 months' imprisonment, concurrent sentences of equal length being imposed on two counts of being concerned in the supply of class A drugs;
+
+ Comment: two concurrent sentences",NA
+"Ancillary Orders Applied
+If YES, which orders? WhatAncilliary","Yes/No/Don’t know
+If YES, list all",Ancillary,NA,NA,,No,,Don't know,Don't know,No,,,Don't know,No,No,No,No,No,NA,,NA,No,No
+,,WhatAncilliary,NA,NA,"Exact: relation to him and the money he can spend;
+
+ Comment: 
+
+Exact: £1.8 million confiscation order that has been made against him;
+
+ Comment: £1.8 million confiscation order",NA,,Don't know,Don't know,NA,,,NA,NA,NA,"NA
+
+Exact: They were also made subject to the notification requirements of the Counter Terrorism Act 2008;
+
+ Comment: Made subject to the notification requirements of the Counter Terrorism Act 2008",NA,NA,NA,"Exact: disqualification from driving for seven years and one month;
+
+ Comment: disqualification from driving for seven years and one month",NA,NA,NA
+OffSex Offender(s) Gender,All Male/All Female/Male&Female,OffSex,NA,NA,"Exact: MARK WAKEFIELD AND MARK ANDREW PURSEGLOVE;
+
+ Comment: All Male","Exact: two men;
+
+ Comment: All men",,"Exact: ZANE ROY AINSCOUGH;
+
+ Comment: All Male","Exact: Marcus Ellis, Michael Gregory and Nathan Martin were convicted of two counts of murder and three counts of attempt murder, and Rodrigo Simms;
+
+ Comment: All Male
+
+Exact: Iain Davis;
+
+ Comment: All Male","Exact: offender and remonstrated with him;
+
+ Comment: All Male","Exact: JAMES  IAN  McNEILL;
+
+ Comment: All Male",,"Exact: PAVLOS GEORGIOU KAZANTZIS;
+
+ Comment: All Male","Exact: he;
+
+ Comment: All Male","Exact: The appellant and his brother;
+
+ Comment: All Male","Exact: Farooqi, Matthew Newton, Israr Malik and Harris Farooqi (Farooqi’s son);
+
+ Comment: All Male",,"Exact: DANIEL  GLEN  HAY;
+
+ Comment: All Male","Exact: James Llewhellin;
+
+ Comment: All Male",,"Exact: He;
+
+ Comment: All male","Exact: RHYS MORAR;
+
+ Comment: All Male",
+OffAgeOffence Offenders(s) Age at Time of Offence,Numeric,OffAgeOffence,NA,NA,Don't know,Don't know,,Don't know,Don't know,"Exact: offender was 36 at the time of the offence;
+
+ Comment: 36 years old","Exact: 18 years;
+
+ Comment: 18","Exact: 27th March 1973;
+
+ Comment: 35 years old","Exact: then aged 19 years and 11 months;
+
+ Comment: 19",Don't know,Don't know,,"Exact: 21;
+
+ Comment: 21
+
+Exact: 16;
+
+ Comment: 16",Don't know,NA,"Exact: At the time of these offences in October and November 2017 the appellant was aged 18;
+
+ Comment: 18","Exact: aged 53;
+
+ Comment: 53",Don't know,Don't know
+OffAgeConvSen Offenders(s) Age at Time of Conviction/Sentence,Numeric,OffAgeConvSen,NA,NA,Don't know,Don't know,,Don't know,Don't know,"Don't know
+
+Exact: being 36 years of age;
+
+ Comment: 36","Exact: 19 years of age;
+
+ Comment: 19",,Don't know,Don't know,Don't know,Don't know,Don't know,Don't know,NA,Don't know,"NA
+
+Exact: aged 53;
+
+ Comment: 53",Don't know,Don't know
+OffJobOffence Offender(s) Employment Status at Time of Offence,Employed/Unemployed/Student/Retired/Other/Don’t know,OffJobOffence,NA,NA,"Exact: self-employed;
+
+ Comment: Self-employed",Don't know,,Don't know,Don't know,"Don't know
+
+Exact: needed help with motivation to find employment;
+
+ Comment: Unemployed",,Don't Know,"Exact: student;
+
+ Comment: Student","Exact: ran a coach company;
+
+ Comment: Employed",Don't know,,"Exact: doorman;
+
+ Comment: Employed","Exact: He worked full-time as an electrician;
+
+ Comment: Employed",NA,Don't know,"Exact: elder or religious minister in a Congregation of Jehovah's Witnesses in Cornwall;
+
+ Comment: Other",Don't know,Don't know
+OffRelsOffence Offender(s) Relationship Status at Time of Offence,Single/Married/Relationship/Don’t know,OffRelsOffence,NA,NA,Don't know,,,Don't know,"Exact: girlfriend;
+
+ Comment: Relationship
+
+Exact: new girlfriend;
+
+ Comment: Relationship","Don't know
+
+Exact: he has no current partner;
+
+ Comment: Single",Don't know,Don't Know,Don't know,,"Exact: Fiza Asif (Arshad's wife;
+
+ Comment: Married",Don't know,Don't know,"Exact: girlfriend;
+
+ Comment: Relationship",,Don't know,NA,Don't know,Don't know
+OffDependsOffence Offender(s) Dependant Status at Time of Offence,Had children/Did not have children/Don’t know,OffDependsOffence,NA,NA,Don't know,"Exact: daughter;
+
+ Comment: Had children",,Don't know,Don't know,"Don't know
+
+Exact: daughter aged 13;
+
+ Comment: Had children",Don't know,Don't Know,Don't know,,Don't know,"Don't know
+
+Exact: In this judgment we shall refer to him by his full name to distinguish him from his father;
+
+ Comment: Had children",Don't know,Don't know,"Exact: offender's two sons;
+
+ Comment: Had children",Don't know,NA,Don't know,Don't know
+OffHomeOffence Offender(s) Accommodation Status at Time of Offence,Had fixed address/Homeless/Temporary accommodation/Don’t know,OffHomeOffence,NA,NA,Don't know,Don't know,,Don't know,,"Exact: living alone in a flat rented from the local authority;
+
+ Comment: Had fixed address",Don't know,"Exact: one bedroomed flat on a council estate;
+
+ Comment: Fixed address",,Don't know,"Exact: The appellant and Arshad lived at an address in Palmerston Road,;
+
+ Comment: Fixed address",Don't know,,"Exact: home;
+
+ Comment: Fixed address","Exact: flat;
+
+ Comment: Fixed address",Don't know,NA,Don't know,Don't know
+OffMentalOffence Offender(s) Mental Health at Time of Offence,Had mental health problems/Has learning difficulties/Other/Don’t know,OffMentalOffence,NA,NA,Don't know,Don't know,,Don't know,Don't know,Don't know,Don't know,Don't Know,Don't know,Don't know,Don't know,Don't know,Don't know,Don't know,"Exact: suffering from depression, stress and anxiety. He had previously been prescribed anti-depressants.;
+
+ Comment: Had mental health problems","Exact: learning disability with an IQ of less than 70,;
+
+ Comment: ",NA,Don't know,Don't know
+OffIntoxOffence Was Offender Intoxicated at Time of Offence?,Yes-drinking/Yes-drugs/Yes-drinking&drugs/No/Don’t know,OffIntoxOffence,NA,NA,Don't know,Don't know,,"Exact: The appellant's account was that he had had one pint of lager;
+
+ Comment: Yes - drinking",Don't know,"Exact: Binge drinking on this occasion disinhibited his behaviour;
+
+ Comment: Yes - drinking
+
+Exact: offender seemed quite drunk;
+
+ Comment: Yes - drinking",Don't know,Don't Know,"Exact: drinking;
+
+ Comment: Yes - drinking",Don't know,Don't know,Don't know,,Don't know,"Exact: Both adults had been drinking alcohol;
+
+ Comment: Yes - drinking",,NO,Don't know,"Exact: which alcohol, cannabis and cocaine were consumed;
+
+ Comment: Yes - drinking & drugs"
+OffVicRelation Offender-Victim Relationship,Stranger/Relative/Acquaintance,OffVicRelation,NA,,NA,"Exact: daughter;
+
+ Comment: Relative",,"Exact: an alleged history of ill-will between the complainant and the appellant;
+
+ Comment: Acquaintance ",,"Exact: whom they both knew;
+
+ Comment: Acquaintance","Exact: The appellant assaulted the police officer with intent to resist arrest by picking up a trowel which was in the garage and hitting the officer in the face with it (offenc;
+
+ Comment: Stranger
+
+Exact: On 8 September 2007 the appellant attempted a burglary at 33 Potter's Crescent, Ash. He did not manage to complete that offence because he was heard damaging the patio doors which he had forced open at the rear;
+
+ Comment: Stranger
+
+Exact: mother's;
+
+ Comment: Relative
+
+Exact: who is a son of a friend of hers;
+
+ Comment: Acquaintance","Exact: They lived on the same estate as the appellant;
+
+ Comment: Neighbours ","Exact: here the appellant met a young woman called L;
+
+ Comment: Stranger","Exact: employed a number of teenage boys;
+
+ Comment: Acquaintance","Exact: Arshad's wife;
+
+ Comment: Relative",Don't know,"Exact: Charlton asked her and KP;
+
+ Comment: Acquaintance","Exact: post office many times;
+
+ Comment: Acquaintance","Exact: ""K"" and the victim of the assault by beating was her seven-year-old daughter ""L"". K had been living with the offender s;
+
+ Comment: Relative",NA,NA,Don't know,"Exact: half-brother;
+
+ Comment: Relative"
+VictimType,Individual person/Organisation,VictimType,NA,,NA,,,"Exact: The prosecution contended that whilst the complainant had been on the ground the appellant had kicked him in the head. The prosecution case was of a wholly unprovoked attack.;
+
+ Comment: Individual person","Exact: two men, Ashley Kenton and Wayne Mowatt were shot dead;
+
+ Comment: Individual persons
+
+Exact: They included Charlene Ellis, Letisha Shakespeare, Sophie Ellis and Cheryl Shaw. A convoy of vehicles, which included a red Mondeo and a silver Vauxhall, drove to the scene. Shots were fired into the crowd. Sharleen Ellis and Latisha Shakespeare received fatal gunshot wounds. Sophie Ellis and Cheryl Shaw were badly injured. A man called Leon Harris, who was sitting in a car further down the alleyway, was shot at close range by a gunman who had alighted from one of the convoy of vehicles.;
+
+ Comment: Individual persons","Exact: Mr Walls;
+
+ Comment: Individual person","Exact: Lynne O'Connell,;
+
+ Comment: Individual","Exact: Mr and Mrs Chowdhery;
+
+ Comment: Individuals","Exact: young woman called;
+
+ Comment: Individual","Exact: SJ, JC and CS;
+
+ Comment: Individual persons","Exact: Fiza Asif (Arshad's wife;
+
+ Comment: Individual person",Don't know,"Exact: Karen Price;
+
+ Comment: Individual person","Exact: shopkeeper;
+
+ Comment: Individual person
+
+Exact: post office in Bishops Itchington was robbed by three men;
+
+ Comment: Organisation","Exact: K"" and the victim of the assault by beating was her seven-year-old daughter ""L"";
+
+ Comment: Individual persons",NA,NA,Don't know,"Exact: half-brother;
+
+ Comment: Individual"
+VicNum Number of Victims,Numeric,VicNum,NA,NA,NA,"Exact: 11 year-old daughter;
+
+ Comment: 1",,"Exact: The prosecution contended that whilst the complainant had been on the ground the appellant had kicked him in the head;
+
+ Comment: 1","Exact: Sharleen Ellis and Latisha Shakespeare received fatal gunshot wounds. Sophie Ellis and Cheryl Shaw were badly injured. A man called Leon Harris, who was sitting in a car further down the alleyway, was shot at close range by a gunman who had alighted from one of the convoy of vehicles.;
+
+ Comment: 5
+
+Exact: two men, Ashley Kenton and Wayne Mowatt were shot dead;
+
+ Comment: 2","Exact: Mr Walls was awoken by a number of blows to his head;
+
+ Comment: 1",,"Exact: Mr and Mrs Chowdhery;
+
+ Comment: 2",,"Exact: SJ, JC and CS;
+
+ Comment: 3","Exact: Fiza Asif (Arshad's wife);
+
+ Comment: 1",Don't know,"Exact: Karen Price;
+
+ Comment: 1","Exact: shopkeeper;
+
+ Comment: 1","Exact: ""K"" and the victim of the assault by beating was her seven-year-old daughter ""L"";
+
+ Comment: 2",NA,NA,Don't know,"Exact: Jordan Campbell was the applicant's half-brother;
+
+ Comment: 1 victim"
+VicSex Victim(s) Gender,All Male/All Female/Male&Female,VicSex,NA,NA,NA,"Exact: daughter;
+
+ Comment: All female",,"Exact: Peter Wheatcroft;
+
+ Comment: All Male","Exact: two men;
+
+ Comment: All Male","Exact: Mr Walls;
+
+ Comment: All Male","Exact: 4. We turn to the facts. The facts relating to offence 1 are these. Lynne O'Connell, who ran a business called RSVP from her home, engaged some casual Christmas staff in 2006. This included the appellant, who is a son of a friend of hers. The work entailed being mainly in the outbuilding of her house, but the staff were allowed into the house to use the lavatory and kitchen. On 14 December 2006 the appellant went into an area of the house where he was not permitted to be. He stole £400 in Swiss francs from a little box where they were kept.5. The appellant attended court in respect of this matter on 12 January 2007. However, in the meantime, on 3 January he took from his mother's handbag £20 and the keys to her safe (offence 2). He then took her car keys from the safe, drove the car to a public house, parked it and smashed its window to make it look as if somebody else had taken the car (offence 3). He was also charged with having no licence and no insurance on that occasion (offences 4 and 5). It seems that he has never had a licence of any description. The print-out from the DVLC came back as ""no trace"", despite his having had six penalty points imposed on him in respect of a previous offence of driving without insurance.6. On 8 September 2007 the appellant attempted a burglary at 33 Potter's Crescent, Ash. He did not manage to complete that offence because he was heard damaging the patio doors which he had forced open at the rear (offence 9). He then went into 31 Chester Road, where the door was open as people were coming and going (offence 6). He stole car keys and then took a Ford Focus car (offence 8). A postman saw the appellant behaving oddly. The vehicle was found in the street in a damaged condition. 7. Having left the Ford Focus, the appellant went on to a house called ""Aniryss"" at Thunder Hill (offence 7). He took a Volvo from outside that house. The Volvo had a Tracker fitted which enabled the police to work out where he was. He drove the vehicle into a police car, got out and ran away (offences 10, 12 and 13). He was seen by an off-duty police officer who managed to trap him in a garage. The appellant assaulted the police officer with intent to resist arrest by picking up a trowel which was in the garage and hitting the officer in the face with it (offence 11).;
+
+ Comment: Male & Female","Exact: Mr and Mrs Chowdhery;
+
+ Comment: Male & Female","Exact: young woman called L;
+
+ Comment: All Female","Exact: teenage boys;
+
+ Comment: All Male","Exact: Fiza Asif (Arshad's wife);
+
+ Comment: All Female",Don't know,"Exact: Karen Price;
+
+ Comment: All Female","Exact: him;
+
+ Comment: All Male","Exact: K"" and the victim of the assault by beating was her seven-year-old daughter ""L"";
+
+ Comment: All Female",NA,NA,Don't know,"Exact: Jordan Campbell;
+
+ Comment: All Male"
+VicAgeOffence Victim(s) Age at Time of Offence,Numeric,VicAgeOffence,NA,NA,NA,"Exact: 11 year-old;
+
+ Comment: 11",,Don't know,Don't know,Don't know,Don't know,Don't Know,Don't know,Don't know,Don't know,Don't know,"Exact: nearly 16;
+
+ Comment: 15",Don't know,"Exact: seven-year-old daughter;
+
+ Comment: 7",NA,NA,Don't know,Don't know
+VicJobOffence Victim(s) Employment Status at Time of Offence,Employed/Unemployed/Student/Retired/Other/Don’t know,VicJobOffence,NA,NA,NA,Don't know,,Don't know,Don't know,Don't know,"Exact: ran a business called R;
+
+ Comment: Self-employed",Don't Know,Don't know,"Exact: teenage boys;
+
+ Comment: Student",Don't know,Don't know,,"Exact: shopkeeper;
+
+ Comment: Employed",NA,NA,Don’t know,Don't know,Don't know
+VicRelsOffence Victim(s) Relationship Status at Time of Offence,Single/Married/Relationship/Don’t know,VicRelsOffence,NA,NA,NA,Don't know,,Don't know,Don't know,"Exact: his partner;
+
+ Comment: Relationship",Don't know,"Exact: couple, Mr and Mrs Chowdhery.;
+
+ Comment: Married",Don't know,Don't know,"Exact: Fiza Asif (Arshad's wife;
+
+ Comment: Married",Don't know,Don't know,Don't know,"NA
+
+Exact: had been living with the offender;
+
+ Comment: Relationship",NA,Don’t know,Don't know,Don't know
+VicDependsOffence Victim(s) Dependant Status at Time of Offence,Had children/Did not have children/Don’t know,VicDependsOffence,NA,NA,NA,Don't know,,Don't know,Don't know,Don't know,Don't know,"Exact: their daughter's safety.;
+
+ Comment: Had children",Don't know,Don't know,"Exact: deceased's youngest child;
+
+ Comment: Had children",Don't know,Don't know,Don't know,"Exact: seven-year-old daughter;
+
+ Comment: Had children",NA,Don’t know,Don't know,Don't know
+VicHomeOffence Victim(s) Accommodation Status at Time of Offence,Had fixed address/Homeless/Temporary accommodation/Don’t know,VicHomeOffence,NA,NA,NA,Don't know,,Don't know,Don't know,,"Exact: ynne O'Connell, who ran a business called RSVP from her home,;
+
+ Comment: Had fixed address","Exact: Chowdherys and on the gate itself.;
+
+ Comment: Fixed address",Don't know,,"Exact: The appellant and Arshad lived at an address in Palmerston Road, Walthamstow together with the deceased and other family members;
+
+ Comment: Fixed address",Don't know,Don't know,Don't know,"Exact: K had been living with the offender;
+
+ Comment: Fixed address",NA,Don’t know,Don't know,Don't know
+VicMentalOffence Victim(s) Mental Health at Time of Offence,Had mental health problems/Has learning difficulties/Other/Don’t know,VicMentalOffence,NA,NA,NA,Don't know,,Don't know,Don't know,Don't know,Don't know,Don't Know,Don't know,,Don't know,Don't know,Don't know,Don't know,,NA,Don’t know,Don't know,Don't know
+VicIntoxOffence Was Victim Intoxicated at Time of Offence?,Yes-drinking/Yes-drugs/Yes-drinking&drugs/No/Don’t know,VicIntoxOffence,NA,NA,NA,Don't know,,"Exact: having had a pint of lager in another public house.;
+
+ Comment: Yes - drinking",Don't know,Don't know,Don't know,Don't Know,"Exact: Both the appellant and L had been drinking heavily;
+
+ Comment: Yes - drinking",,Don't know,Don't know,,Don't know,"Exact: Both adults had been drinking alcohol;
+
+ Comment: Yes - drinking",NA,Don’t know,Don't know,"Exact: alcohol, cannabis and cocaine were consumed;
+
+ Comment: Yes - drinking & drugs"
+ProsEvidTypeTrial Which Types of Evidence Did Prosecution Present at Trial?,"EG. CCTV, Victim testimony, Identification line-up, Eye-witness testimony, Police testimony, Expert report/testimony, Cross-admissibility of counts, Victim is credible, Offender has bad character, Fingerprint match, Testimony of co-accused, Offender took victim property, Submission of ‘no case to answer’, DNA match, Digital forensic evidence, XXX",ProsEvidTypeTrial,NA,"Exact: was looking out of his office window, saw condoms and sewage floating down the river Crouch;
+
+ Comment: Eye-witness testimony","Exact: gave expert evidence to this extent;
+
+ Comment: Expert testimony
+
+Exact: compact discs from the appellant Wakefield at the Bionic Records store at the Reading Festival. Having looked at those, he was suspicious as to their authenticity and he seized the stock on the stall;
+
+ Comment: Seized items","Exact: result of further e-mails between S and L;
+
+ Comment: E-mails
+
+Exact: police had seized two computers belonging to S;
+
+ Comment: Personal comupters",,"Exact: here was a small amount of medical evidence resulting from the complainant's hospitalisation. It took the form of a diagnosis of more than one fracture to both sides of the jaw, but it did not proffer a view as to causation;
+
+ Comment: Medical evidence
+
+Exact: Mr Hanson. He was described by the prosecution as a sober and independent witness, a view with which it is difficult to disagree. He said that a point had come when he had heard a glass break. He added:;
+
+ Comment: Eye-witness testimony
+
+Exact: The evidence of Mr Wheatcroft was that he had gone to the Dog and Partridge, having had a pint of lager in another public house. The Dog and Partridge was quiet at that time of the evening. There were only ten or a dozen people in the bar. He bought a pint of lager. He saw the appellant there. Mr Wheatcroft stated that he spoke to a woman with whom he was acquainted about some roofing felt that he had supplied. He then said to the appellant, ""Are you all right?"" which produced the response, ""Get out of my fucking face"". He said that the appellant was very aggressive, that he, the complainant, then went towards the bar and as he turned round the appellant was just behind him. The appellant punched him in the face. That was all that he, the complainant, could remember. He said he must have passed out. An ambulance came and he was taken to hospital.;
+
+ Comment: Victim testimony","Exact: The hooded top found in Ellis’ garden bore two particles of firearm discharge residue, one from the front and left sleeve containing primer residue of lead, barium and antimony, with a low level silicone, and the second, from the right front and sleeve, also containing lead, barium, antimony, as well as tin with a low level silicone. The leg area of the jeans yielded one particle of prima residue of lead, barium and antimony with a low level of silicone. There was a trace of nitro-glycerine from the right of the hooded top. This evidence did not prove directly that the residues found on the clothes must have come from the shooting outside Uniseven on 2nd January. It was however consistent with it, and it was, of course, open to the jury to consider whether any inferences should properly be drawn from the additional fact that the hooded top and jeans were not found where they would normally be, in their owner’s house rather than the garden.;
+
+ Comment: Firearm discharge residue on clothing
+
+Exact: The top was closely linked by DNA evidence to Ellis;
+
+ Comment: DNA evidence
+
+Exact: A taxi firm regularly collected a fare from Ryland Street, and took the individual to an address where Gregory’s girlfriend lived. There was contact by phone 819 on 31st December. There was additional evidence linking 819 to Michael Gregory, but the details need no recitation.;
+
+ Comment: Taxi records
+
+Exact: A good deal of material relating to telephone evidence and telephone cell sites was available;
+
+ Comment: Telephone evidence
+
+Exact: CCTV;
+
+ Comment: CCTV
+
+Exact: 23 x 9 MM cartridges were recovered;
+
+ Comment: Recovered gun cartridges
+
+Exact: . Sophie Ellis was present at the nightclub. It was announced that there would be an “after party” at Uniseven. She went there with others. Inside Uniseven it became very hot. She saw a car drive past slowly, which she thought was a burgundy coloured car and for a split second she saw two guns, which looked the same, and were pointed out of the window of the car. She was shot and fell to the ground.;
+
+ Comment: Eyewitness testimony","Exact: orensic examination revealed blood splattering next to the bed. Mr Wall suffered a 3-centimetre laceration to the left side of the head behind the left ear, a black eye, and bruising and tenderness beneath the left eye. There was also an area of swelling and bruising, between 3 centimetres and 6 centimetres in length, to his left forearm, which appeared to be a defensive injury. The head wound was closed under local anaesthetic with six stitches. There was no further evidence available to the sentencing judge concerning the impact of the offence on the victim.;
+
+ Comment: Medical report","Exact: The print-out from the DVLC came back as ""no trace"", despite his having had six penalty points imposed on him in respect of a previous offence of driving without insurance.;
+
+ Comment: ","Exact: form of stickers being placed on a lamppost immediately adjacent and near to the back gate of the Chowdherys and on the gate itself.;
+
+ Comment: Racist stickers
+
+Exact: harassment;
+
+ Comment: Victim testimony","Exact: psychological evidence;
+
+ Comment: Psychological evidence
+
+Exact: DNA evidence;
+
+ Comment: DNA evidence
+
+Exact: expert evidence to assist the jury. First, a Dr Morgan examined both the appellant and L and gave written evidence about the marks which he found on their bodies;
+
+ Comment: Expert testimony
+
+Exact: Jamie Dean, saw the appellant and L when they arrived and subsequently heard some angry exchanges between them. He recalls L leaving the flat and subsequently coming back to look for her mobile telephone.;
+
+ Comment: Eye-witness testimony
+
+Exact: ""Emily said it was [L's first name] and she sounded quite muffled and upset. ‘Emily please, I need help, I need help’. I could hear a man's voice shouting very angrily, 'open the door, let me in'. She was telling him to fuck off, leave her alone, calling him a freak. Her tone of voice was terrified. She said the man was telling her to open the door. When I first started speaking she said 'I think he is coming to get me.' She thought there were people there. He would not let her leave. I told her to leave, and if she found out where she was, I would pick her up. She said she had already tried to leave and he had put her in the room..."";
+
+ Comment: Victim testimony","Exact: SJ made allegations of sexual abuse against the applicant;
+
+ Comment: Victim testimony","Exact: The appellant was alone with the deceased minutes before the fire was seen by a neighbour.;
+
+ Comment: 
+
+Exact: Cell site evidence put the appellant in the vicinity of the house very shortly before the fire started;
+
+ Comment: 
+
+Exact: (d) Although the appellant's case at trial was that he had bought petrol because the deceased wanted him to fix the children's motorbike in the garden, there was already petrol in the motorbike. The quantity bought by the appellant on the day of the murder was too much for the motorbike.;
+
+ Comment: 
+
+Exact: petrol can seen on CCTV was found close to the victim's burnt body.;
+
+ Comment: CCTV
+
+Exact: 12. We turn to the disputed evidence. Mohammed Tahir was an acquaintance of the appellant and his brother. On 11 January 2011, following the death of the deceased, he spoke to the police but he refused to make a statement. He said that he was concerned for his safety and that of his family. In March 2011 he disclosed that in 2007 the appellant had discussed with his brother killing Fiza Asif. He put those allegations in a letter, but refused to make a witness statement on account of fear. Eventually, on 30 November 2011 he signed a witness statement. By that time the appellant was in custody, having been charged with murder.;
+
+ Comment: Witness statement
+
+Exact: As to expert evidence, the Crown called Dr Swift, a forensic pathologist, and Professor Myers, a burns expert. The defence called Dr Davison, a pathologist. They all agreed that the definitive cause of death was unascertained.;
+
+ Comment: Expert testimony
+
+Exact: circumstantial evidence;
+
+ Comment: ","Exact: undercover officers, who worked separately, was that after completing each deployment with any of the defendants, and as soon as possible thereafter, they wrote up their recollections in their evidence books;
+
+ Comment: Police testimony
+
+Exact: The many conversations and meetings which took place during the ensuing 11 months were covertly recorded and the transcripts of these recordings became the central evidence in the case against the appellants.;
+
+ Comment: Recordings of conversations","Exact: Jane R gave a total of four statements.;
+
+ Comment: Eyewitness
+
+Exact: Elizabeth Williams made four statements.;
+
+ Comment: Eyewitness
+
+Exact: A few days later she and KP went with Charlton and Ali to the same room at 29 Fitzhamon Embankment. There was more glue sniffing. Charlton asked her and KP to get on the bed naked to pose for photos. D refused and Charlton slapped her face. KP intervened; he turned on her and punched and slapped her till she fell. Ali tried to pull Charlton off but he kept on hitting KP. D was too scared to watch. When Charlton stopped there was blood from KP’s mouth and she did not respond. Charlton said she was dead. He put her on the bed, went out and returned with what looked like white curtain wire. He turned KP over, tied her hands and put a carrier bag over her head. He removed her pants and had sex with her. He told Ali to do the same. Ali did but looked as if he wanted to be sick.12.Charlton then brought in what looked like a rug. Both Ali and Charlton lifted KP from the bed on to the rug and carried her outside. D was in the corner crying when both men returned after about ten minutes with dirty hands. Charlton warned D to say nothing or she would die the same way. Ali advised her to say nothing and seemed as scared as she was. She did not tell anyone because she was afraid. She did not see either Charlton or Ali again.;
+
+ Comment: Eyewitness testimony","Exact: bad character evidence;
+
+ Comment: 
+
+Exact: prosecution imaging expert;
+
+ Comment: imaging expert
+
+Exact: bandana found at the appellant's home and a pair of gloves of the type purchased at Homebase;
+
+ Comment: Clothing from crime in appellant home
+
+Exact: CCTV footage of the robbery and the purchase of equipment in Homebase;
+
+ Comment: CCTV footage
+
+Exact: expert evidence;
+
+ Comment: Expert evidence
+
+Exact: Eyewitness;
+
+ Comment: Eyewitness",,,,Don't know,"Exact: One stab wound to the back caused death;
+
+ Comment: Expert report"
+DefEvidTypeTrial Which Types of Evidence Did Defence Present at Trial?,"EG. Offender denies offence, Offender claims to have alibi, No clothing found matching offender’s, No recovery of stolen goods from offender, Previous ruling in another court case, Consistency of offender evidence in court and at police interview, Offender of previous good character, Lack of DNA evidence to support allegations, Lack of medical evidence to support allegations, Victim is not credible/is unreliable, Question admissibility of some item of evidence, Offender admits only to lesser offence, Offender states co-accused is responsible for main offence, Offender argues he/she left scene before main offence committed, Offender uses bad character evidence against co-accused, ‘Cut-throat’ defence, XXX",DefEvidTypeTrial,NA,"Previous cases
+
+Exact: no causative culpability. Because the de-threading of the bolt was an unforeseeable event, his client could not be faulted for failing to have taken steps to prevent it occurring. The offence was not a very serious example of a breach of section 85(3). It was of no economic effect on the public; its spatial and temporal effect was limited. The court should not treat every minor infringement of this legislation as if it was a major one.;
+
+ Comment: ","Exact: believed that trading was permissible;
+
+ Comment: Was not aware that trading the items was illegal",,,"Exact: had acted in self-defence;
+
+ Comment: Acted in self-defence
+
+Exact: Another witness, Ryan McCarron, was called on behalf of the defence;
+
+ Comment: Eye-witness testimony",,"Exact: previous good character for the purposes of sentence;
+
+ Comment: Offender of previous good character",,Don't Know,,"Exact: The records in question concerned SJ's misbehaviour at school on certain occasions.;
+
+ Comment: ","Exact: He said that he left the house at Palmerston Road shortly before 20.21 hours.;
+
+ Comment: Offender claims to have alibi
+
+Exact: The appellant denied presence at the time she died;
+
+ Comment: Offender denies offence",,"Exact: Fresh evidence suggested that KP might have died in 1982 not 1981;
+
+ Comment: Victim was not killed in this crime
+
+Exact: Charlton beat her to death, but that he (Ali) had not touched her until after her death;
+
+ Comment: Offender states co-accused is responsible for main offence
+
+Exact: Charlton’s defence was that he did not know KP or his co-accused or D and the prosecution could not prove the identification of the remains. He did not give evidence;
+
+ Comment: Denied offense
+
+Exact: After the conclusion of the final tape, PC Soden overheard Ali in conversation with two inmates awaiting a shower. Ali said that Charlton had made him do it – and that Charlton ‘was a psycho and would have done him if he hadn’t’;
+
+ Comment: Police testimony","Exact: alibi;
+
+ Comment: Alibi",,,,Don't know,
+JuryInstruct Trial Judge Instructions to Jury,"EG. Are they “sure” defendant is the offender? Jury should only use particular evidence for a specific purpose, XXX",JuryInstruct,NA,NA,,NA,,,,NA,NA,,,Don't know,"Don't know
+
+Exact: directed the jury;
+
+ Comment: Reminder of witness credibility",,,"Exact: informed the jury of why they had heard the evidence of the appellant's previous conviction, warned them against prejudice and over-reliance, directed them that they were entitled to consider it when assessing the appellant's explanation and that it was for them to decide how much it assisted them;
+
+ Comment: Warned jury against prejudice and over-reliance of evidence of previous convictions
+
+Exact: The jury would be addressed by experienced counsel and would be properly directed as to the reliance they could place on the conviction.;
+
+ Comment: ",NA,NA,,Don't know,Don't know
+"Did Trial Judge Hold VoirDire? 
+If YES, What was Outcome? VoirDireOutcome","Yes/No
+If YES, judge ruled evidence admissible/Judge ruled evidence inadmissible",VoirDire,NA,No,No,No,,No,Don't know,No,No,No,Don't know,,"Don't know
+
+Exact: voir dire;
+
+ Comment: Yes",Don't know,,Don't know,NA,No,NO,Don't know,No
+,,VoirDireOutcome,NA,NA,NA,NA,,NA,Don't know,NA,NA,NA,NA,,"NA
+
+Exact: admissible;
+
+ Comment: ",NA,,NA,NA,NA,NA,NA,NA
+PreSentReport Pre-sentence Report Assessment Presented to Sentencing Court,Low/Medium/High risk of reoffending/Don’t know,PreSentReport,NA,NA,No,No,,Don't know,Don't know,"Exact: The court had a pre-sentence report in which the author said that the use of a weapon and the premeditation involved were both aggravating factors, as indeed they were. But he nevertheless identified the offender as having a low risk of reoffending and recommended a community order;
+
+ Comment: Low risk of reoffending","Exact: pre-sentence report;
+
+ Comment: Don't know",Don't Know,Don't know,Don't know,,Don't know,Don't know,Don't know,"Exact: medium risk of re-offending and a medium risk of harm in the form of physical violence to women with whom he was in an intimate relationship;
+
+ Comment: Medium risk of reoffending
+
+Exact: pre-sentence report in respect of the offender.;
+
+ Comment: 
+
+Exact: pre-sentence report;
+
+ Comment: ","Exact: pre-sentence report referred to the appellant's emotional, behavioural and social difficulties and vulnerability to negative peer pressure. It recommended a community order, but counsel realistically acknowledged that a custodial sentence was inevitable;
+
+ Comment: ",Don’t know,Don't know,Don't know
+AggFactSent What Aggravating Factors did Court Consider When Sentencing?,"EG. Offender had previous (relevant) convictions, Offender showed no remorse, Offence committed on while offender was on bail, Offence committed while offender was on licence, Offender failed to comply with court orders, Offender not emphatic to victim empathy, Victim was vulnerable, Offender was intoxicated with drink, Offender was intoxicated with drugs, Offender was intoxicated with drinks&drugs, Offence was committed in public, Sustained nature of offence, Offender continued with offence even after intervention by others, XXX",AggFactSent,NA,"Exact: he judge described the appellant’s failure as grossly irresponsible.;
+
+ Comment: AggFactSent",NA,NA,,"Don't know
+
+Exact: The appellant's account was that he had had one pint of lager;
+
+ Comment: Offender was intoxicated with drinks
+
+Exact: The previous convictions were adduced before the jury by a police officer, Detective Sergeant Dale. He had no personal knowledge of any of the previous offences and what he was able to impart to the court came entirely from the Police National Computer. He referred to a conviction before the Wigan Magistrates in 1992 for common assault. He said that the print-out from the computer stated that the appellant had been asked to leave a shop and had punched a 22 year old to the face resulting in cuts and bruising. The second conviction was in 1995 at Abergavenny Magistrates' Court and according to Sergeant Dale concerned the use of a pool cue to hit the complainant. He then referred to a conviction in 1997 in the Wigan Magistrates' Court for threatening behaviour, adding that the facts were reported as being a punch by the defendant to an unknown male and abuse to police officers. The most recent conviction was in 2004, again in the Wigan Magistrates' Court, for common assault, the allegation being that the appellant had struck a 14 year old male in a shop.;
+
+ Comment: Previous relevant convictions 
+
+Exact: prosecution case was of a wholly unprovoked attack;
+
+ Comment: Unprovoked attack","Exact: beginning with the appellant’s departure from this country shortly after the killing, to Jamaica, a;
+
+ Comment: Fled country
+
+Exact: fter arrest the four appellants were interviewed. Martin denied any involvement in the offences, and offered an alibi. He told untruths about his link with the Vectra which had travelled to Northampton, and the purchase of the red Mondeo. In general terms, Gregory declined to answer any questions, stating that he did not want to remember where he had been at the New Year because of the death of his brother. Ellis denied involvement, and at first exercised his right of silence. When he was later interviewed, he denied any involvement with the red Mondeo, and at a subsequent interview, claimed that gunshot residue found on his clothing had come from fireworks or through other innocent contact. As to the telephone calls, he claimed that it was impossible for him so long after the events to recollect any specific details. However he did not believe that his phone had been in anyone else’s possession. In his interviews, Simms effectively made no comment, but on the last occasion when he was interviewed he denied any involvement in the shooting or in the obtaining of the red Mondeo. He admitted that he was present at Uniseven at the material time, along with several members of his family, who he would not have endangered. He agreed that the phone 845 was his telephone, and asserted that he had received telephone calls while at Uniseven from different people asking him about the quality of the music, but as the music was loud there were several missed calls. In view of the lapse of time, he could not remember any other details. In due course alibi notices were served by Martin, Gregory and Ellis.;
+
+ Comment: ","Exact: he assaulted him whilst he was asleep;
+
+ Comment: Assaulted him whist he was asleep
+
+Exact: he entered the victim's house at night as a trespasser;
+
+ Comment: Entered the victim's house at night as a trespasser
+
+Exact: First, the offender deliberately armed himself with a weapon;
+
+ Comment: Offender deliberately armed himself with a weapon","Exact: He has previous convictions for taking a vehicle without consent and other driving offences in April 2006 for which he received a four months' referral order;
+
+ Comment: ","Exact: There is a record of convictions going back to 1995. In August 1995 he was sent to prison for 4 year for various offences of robbery and attempted robbery. In 1999 he was before the court for possessing an offensive weapons in public. In 2001 he was before the Grimsby and Cleethorpe Magistrates for having an article with a blade. Later the same year he was before the Great Grimsby Crown Court for possessing written material which was threatening, abusive or insulting and he received a sentence of imprisonment of 12 months.;
+
+ Comment: Offender had previous (relevant) convictions",Don't know,"Don't know
+
+Exact: teenage boys;
+
+ Comment: Victim was vulnerable (underage)","Don't know
+
+Exact: . He was told that if Tahir gave evidence all his family would be ""disturbed and crushed"". D;
+
+ Comment: 
+
+Exact: male on a motorcycle had attended Tahir's home in Pakistan and threatened his family if Tahir were to give evidence;
+
+ Comment: 
+
+Exact: further threat was made to Tahir's wife;
+
+ Comment: 
+
+Exact: he appellant lied in saying that he had not bought petrol on 4 January 2011.;
+
+ Comment: Appellant lied",Don't know,"Don't know
+
+Exact: iii) Charlton’s gardening activities over the site of the grave and any proven lies in his interview;;
+
+ Comment: Lied in interviews
+
+Exact: glue-sniffing and prostitution.;
+
+ Comment: 
+
+Exact: He consistently denied any part in KP’s death.;
+
+ Comment: 
+
+Exact: Charlton warned D to say nothing or she would die the same way;
+
+ Comment: 
+
+Exact: had sex with her;
+
+ Comment: ","Exact: The offence had taken place on 8th April, when he and another man had threatened a security guard and stolen a cash box containing £14,500. The robbers had been masked, armed with a sword, and they had made off in a waiting car.;
+
+ Comment: Previous conviction
+
+Exact: The appellant's previous conviction for robbery;
+
+ Comment: Previous conviction
+
+Exact: refused in his interview to say where he had been at the time of the robbery;
+
+ Comment: 
+
+Exact: Evidence that the appellant bought gloves of the exact make and type used by robber 2, using cash passed to him by Baines, and that shortly afterwards Baines bought the axe used in the robbery.;
+
+ Comment: Planning
+
+Exact: axes;
+
+ Comment: Use of a weapon to frighten or injure victim
+
+Exact: £1,000 in cash;
+
+ Comment: ","Exact: there was the ongoing effect on the victims who had been forced to leave their home;
+
+ Comment: 
+
+Exact: he violence had been inflicted in the victim's home;
+
+ Comment: 
+
+Exact: he offender had an antecedent history of eight previous convictions imposed on six previous occasions since 2007 when he was 16 years old. He had convictions for burglary, public order and possession of class A drug offences. Materially, in 2009 he pleaded guilty to two counts of battery and one count of criminal damage for which he was sentenced to a 12-month community order. The victim was his mother. In 2015 he pleaded guilty to an offence of assault occasioning actual bodily harm for which he was sentenced to a term of nine months' imprisonment. That offence had involved violence against another man who had been accused by a former partner.;
+
+ Comment: Previous offences
+
+Exact: The offender told L, aged seven, to collect her things,;
+
+ Comment: presence of others
+
+Exact: The offender's sons saw what took place from their open bedroom doorway;
+
+ Comment: Vulnerable witness
+
+Exact: grabbed her by the hair and threw her into the bedroom;
+
+ Comment: Vulnerable victim","Exact: previous convictions aggravated;
+
+ Comment: ",NA,Don't know,"Exact: lcohol, cannabis and cocaine were consumed;
+
+ Comment: Offender was intoxicated with drinks & drugs"
+MitFactSent What Mitigating Factors did Court Consider When Sentencing?,"EG. Offender showed (genuine) remorse, Offender was ashamed, Offender was of previous good character/offence out of character, Testimonial by employer, Testimonial by personal-partner, Offender has no (relevant) previous convictions, Offender voluntarily sought counselling, Offender voluntarily stopped drinking/determined to address alcohol addiction, Offender voluntarily stopped taking drugs/determined to address drug addiction, Offender has serious medical condition, Offender has mental disorder/learning disability (not linked to commission of offence), Offender experienced ‘bad patch’ in life, Offender age/lack of maturity affecting responsibility, Offender sole/primary carer for dependant relatives, Lapse of time/Long delay before prosecution not fault of offender, XXX",MitFactSent,NA,"Exact: The river had recovered 24 hours later and this was due to the prompt remedial action taken by the appellant;
+
+ Comment: MitFactSent",NA,NA,,Don't know,Don't know,"Exact: the offender is of effective previous good character;
+
+ Comment: 
+
+Exact: that no permanent injury appears to have been occasioned to the victim;
+
+ Comment: 
+
+Exact: his real remorse;
+
+ Comment: 
+
+Exact: his early plea of guilty;
+
+ Comment: Early plea of guilt","Exact: Because of the appellant's youth;
+
+ Comment: 
+
+Exact: He had never received a custodial sentence;
+
+ Comment: ",,Don't know,Don't know,Don't know,Don't know,Don't know,Don't know,"Exact: His distress throughout interview was ""quite evident"".;
+
+ Comment: Genuine remorse","Exact: the pleas of guilty;
+
+ Comment: plead guilty
+
+Exact: he appellant's young age;
+
+ Comment: young age
+
+Exact: which diagnosed a learning disability with an IQ of less than 70, and the report of an intermediary.;
+
+ Comment: mental illness or disability
+
+Exact: it being a stun gun, it was not a lethal weapon; that it did not belong to the appellant and he was never in physical possession of it; that his legal possession of it was of a technical nature because it was in his car; that in any event the possession was of short duration; that the appellant had had no intention to possess or use it in the future; and that he had no previous convictions for offences relating to weapons or violence;
+
+ Comment: ",,Don't know,
+VicImpactStatement Was Victim Impact Statement Given at Original Sentencing?,Yes/No/Don’t know,VicImpactStatement,NA,NA,No,No,,Don't know,,No,No,,Don't know,Don't know,No,No,Don't know,Don't know,"Exact: K made a victim personal statement dated 15 March 2018 which she read to the court;
+
+ Comment: Yes",NA,Don’t know,No,No
+"Who is Appellant?
+If Offender is Appellant, Were There any Co-defendants/co-accused in Case? 
+
+If YES, how many? CoDefAccNum","Offender/Attorney General/Other
+N/A/Yes/No
+
+If YES, numeric",Appellant,"Exact: MICHAEL JONES;
+
+ Comment: ","Exact: Anglian Water Services Ltd;
+
+ Comment: Anglian Water Services Ltd","Exact: MARK ANDREW PURSEGLOVE;
+
+ Comment: 
+
+Exact: MARK WAKEFIELD;
+
+ Comment: ","Exact: three media companies pursuant;
+
+ Comment: Other",,"Exact: ZANE ROY AINSCOUGH;
+
+ Comment: Offender","Exact: Marcus Ellis, Michael Gregory and Nathan Martin;
+
+ Comment: 
+
+Exact: Iain Davis;
+
+ Comment: ","Exact: The Attorney-General seeks leave;
+
+ Comment: Attorney General","Exact: JAMES  IAN  McNEILL;
+
+ Comment: Offender","Exact: NATHAN LUKE WORRELL;
+
+ Comment: Offender","Exact: PAVLOS GEORGIOU KAZANTZIS;
+
+ Comment: Offender","Exact: PF;
+
+ Comment: Offender","Exact: ABDUL  JABBAR;
+
+ Comment: Offender","Exact: Munir Ahmed Farooqi
+            
+              Matthew Newton
+            
+              Israr Hussain Malik;
+
+ Comment: Offender","Exact: ALAN CHARLTON AND IDRIS ALI;
+
+ Comment: Offender","Exact: appellant appeals;
+
+ Comment: Offender","Exact: Solicitor General;
+
+ Comment: General Counsel ","Exact: pplicant applies for leave to appeal in respect of the sentences imposed on him;
+
+ Comment: Offender","Exact: NICHOLAS WARNER;
+
+ Comment: ","Exact: RHYS MORAR;
+
+ Comment: ","Exact: RUBEN  THOMAS  PATRICK  HOATHER;
+
+ Comment: "
+,,Co-defendants/co-accused,NA,NA,NA,NA,,No,,No,No,No,No,No,,,,,NA,No,NA,No,
+,,CoDefAccNum,NA,NA,"NA
+
+Exact: MARK WAKEFIELD AND MARK ANDREW PURSEGLOVE;
+
+ Comment: 2
+
+Exact: MARK WAKEFIELD AND MARK ANDREW PURSEGLOVE;
+
+ Comment: 1","NA
+
+Exact: two men, S and L;
+
+ Comment: 1",,NA,"Exact: Marcus Ellis, Michael Gregory and Nathan Martin;
+
+ Comment: 3",NA,NA,NA,NA,NA,"Exact: The appellant and his brother;
+
+ Comment: 2","Don't know
+
+Exact: Farooqi, Matthew Newton, Israr Malik and Harris Farooqi (Farooqi’s son);
+
+ Comment: 4","Exact: ALAN CHARLTON AND IDRIS ALI;
+
+ Comment: 1","Exact: A co-defendant, Matthew Baines;
+
+ Comment: 1",NA,NA,NA,NA,"Exact: two co-accused;
+
+ Comment: two co-accused"
+AppealAgainst,"Conviction is unsafe/Sentence is unduly excessive/Sentence is unduly lenient/Both conviction is unsafe & sentence is unduly excessive/Other e.g., application for extension of time to appeal",AppealAgainst,,"Exact: the fine was manifestly excessive;
+
+ Comment: excessive fine","Exact: They appeal against conviction with leave of the single judge;
+
+ Comment: Appeal against conviction with leave of the single judge","Exact: against “any order restricting the publication of any report of the whole or any part of a trial on indictment or any such ancillary proceedings”. Such an application requires the leave of the Court of Appeal and section 159 provides that “the decision of the Court of Appeal shall be final”.;
+
+ Comment: Restricted publication of trial reports",,"Exact: appeals against conviction by leave of the single judge;
+
+ Comment: ","Exact: They appeal against conviction, with the leave of the court;
+
+ Comment: 
+
+Exact: He appeals against conviction with the leave of a single judge;
+
+ Comment: ","Exact: Court on the ground that it is unduly lenient;
+
+ Comment: Sentence is unduly lenient","Exact: On that basis the sentence of six months that he imposed for offence 10 was lawful as an individual sentence, but the Recorder could not lawfully pass an aggregate of more than six months for all the summary only offences. But he passed a sentence of two months in respect of offence 3 and a consecutive sentence of six months in respect of offence 8 (both being summary only offences). The result, therefore, was that the aggregate of the sentences imposed for the three summary only offences (offences 3, 8 and 10) was one of 14 months when the Recorder's power was limited to imposing an aggregate sentence of six months. Accordingly, before we consider the totality argument that has been raised on behalf of the appellant, we make the necessary adjustments to those sentences, to reduce the aggregate of them to no more than six months. That we would achieve by quashing the sentence of six months passed in respect of offence 8 and substituting one of two months, and quashing the sentence of six months passed in respect of offence 10 and substituting one of two months.;
+
+ Comment: Sentence is unduly excessive
+
+Exact: The application for leave to appeal against sentence has been referred to the full court by the Registrar. We give leave.;
+
+ Comment: ","Exact: he relies on the well-known principle of totality.;
+
+ Comment: 
+
+Exact: that the sentences should be concurrent rather than consecutive;
+
+ Comment: 
+
+Exact: He submitted firstly that the 6 year sentence of imprisonment on count 2 was too long;
+
+ Comment: Sentence is unduly excessive","Exact: unsafe;
+
+ Comment: Conviction is unsafe","Exact: leave to appeal against conviction;
+
+ Comment: ",,"Exact: summing up was flawed in consequence;
+
+ Comment: Trial judge did not properly sum up the case
+
+Exact: leave to appeal against sentence;
+
+ Comment: Appeal against sentence as it is unduly excessive 
+
+Exact: seek leave to appeal against their convictions;
+
+ Comment: Appeal against conviction","Exact: convictions are unsafe.;
+
+ Comment: ","Exact: appeals against his conviction on count 3 with the leave of the single judge;
+
+ Comment: Against conviction with leave of single judge","Exact: unduly lenient;
+
+ Comment: Sentence is unduly lenient",,"Exact: the appellant had not acted out of wilful defiance or disrespect to the court;
+
+ Comment: Sentence is excessive","Exact: application for an extension of time of 670 days for leave to appeal sentence;
+
+ Comment: Application for extension of time to appeal","Exact: application for an extension of time and for leave to appeal against his conviction;
+
+ Comment: Application for extension of time and for leave to appeal"
+AppealGround Ground(s) for Appeal,"EG. Trial judge did not admit evidence undermining witness credibility, Trial judge did not properly/fully sum up the case, Trial judge gave own views on evidence/case that might bias jury, Trial judge admitted evidence which was prejudicial, Trial judge should have discharged jury after being exposed to prejudicial evidence, Sentencing judge should have put offence in a lower category of seriousness, Sentencing judge should have put offence in a higher category of seriousness, Sentence is ‘excessive’, Offender had practical difficulties in obtaining legal representation/legal documentation for making an appeal within the allotted timeframe, Exercise of judicial discretion was ‘Wednesbury’ unreasonable, XXX",AppealGround,"Exact: As only one member of the court, Potter LJ, was present for the purposes of handing down the judgment;
+
+ Comment: ","Exact: fine of £200,000 was manifestly excessive for this single offence, particularly when measured against the total fines of £80,000 in the Yorkshire Water case.;
+
+ Comment: AppealGround","Exact: It is submitted that this particular Act sets out a procedure which carries within it the seeds of duplicity on the basis that there is a distinction between section 92 and section 101 as to the defences which are available, particularly where the defendants are the partners, where the issue which may have to be determined is whether a defence under section 92(5) is available to that individual, or whether there is a defence only under section 101(4).;
+
+ Comment: Form of indictment","Exact: On 30 March 2005 the present application was made on behalf of three media companies pursuant to section 159 of the Criminal Justice Act 1988. That section permits a person aggrieved to appeal to the Court of Appeal against “any order restricting the publication of any report of the whole or any part of a trial on indictment or any such ancillary proceedings”. Such an application requires the leave of the Court of Appeal and section 159 provides that “the decision of the Court of Appeal shall be final”.;
+
+ Comment: section 159 of the Criminal Justice Act 1988",,"Exact: What the approach overlooked was whether the evidence did in fact establish that it was the kick that caused the jaw fractures. The medical evidence did not begin to establish that.;
+
+ Comment: Medical evidence did not conclude the jaw fracture was caused by appellant
+
+Exact: concern about the way in which the evidence of the previous convictions was adduced remains as a ground of appeal;
+
+ Comment: Way in which evidence of previous convictions was adduced 
+
+Exact: We have no doubt that the judge was trying to simplify matters for the jury. We should be slow to criticise a trial judge for making such an attempt. It is, after all, one of his primary functions. However, simplification can sometimes become oversimplification. On behalf of the appellant it is submitted that that is what happened here.;
+
+ Comment: Trial judge did not properly sum up the case","Exact: Criticisms of the disclosure process were repeatedly and fully argued before the judge.;
+
+ Comment: 
+
+Exact: Any matters arising since the hearing of the trial as detailed in paragraph 3 of the Appellant’s Skeleton Argument.2.In view of the evident in the ‘Harvey’ trial to the effect that ‘Peter BROWN’ knew or may have known Harvey (contrary to what he said in the Davis case), any information establishing that he may have known Davis or Harvey.3.Any information that the police had and/or should have investigated and/or should have disclosed at or before the trial of Davis, concerning:(a)knowledge on the part of the anonymous witnesses of the fatal shooting of Delroy Barnes in February 2002 which may have been targeted at Marcus Johnson (Chaos);(b)The contents of D142 (prepared by DS Groves) (this concerned the suggestion that Marcus Johnson had passed the gun);(c)Gary Mowatt’s arrest in March 2002 for possession of a loaded firearm near an address linked to Harvey;(d)Requests by the families of the deceased to see the videos of the flat where the murders took place;(e)Contact between the anonymous witnesses after the murders;(f)Links between the anonymous witnesses;(g)Family or other relationships between the families of the deceased and the anonymous witnesses (it was suggested at the Harvey trial that Cecil Blackburne was in fact a step-brother of the deceased Wayne Mowatt – Summing up Vol D Page 15/16);(h)HEATH dealing drugs or being present in Flat 18 at the time of the shooting;(i)Tony PINK (“G”) having any relevant evidence to give.4.Any information subsequent to the trial of Davis which the police have acquired and/or should have investigated and/or disclosed concerning:(a)the threats to Harvey’s solicitors by a ‘Tony Shockness’;(b)whether Peter BROWN was a member of the Shockness family;(c)any matters set out in paragraph 3 above (requiring action post trial).5.In light of the suggestions at the ‘Harvey’ trial that some of the anonymous witnesses knew each other, any information to this effect. It can no longer be conceded that the witnesses in paragraph 3 of the advice on appeal can be treated in the ‘pure eye witness’ category6.Any evidence that supports the account given by the Defence witness Tony PINK in the ‘Harvey’ trial to the effect that ‘HEATH’ is a man called ‘Crusoe’ who was in fact dealing drugs from next door flat 18 at the time he was said to be a witness to the shooting and as such undermining his credibility and honesty.;
+
+ Comment: 1. Any matters arising since the hearing of the trial as detailed in paragraph 3 of the Appellant’s Skeleton Argument.
+
+2.
+In view of the evident in the ‘Harvey’ trial to the effect that ‘Peter BROWN’ knew or may have known Harvey (contrary to what he said in the Davis case), any information establishing that he may have known Davis or Harvey.
+
+3.
+Any information that the police had and/or should have investigated and/or should have disclosed at or before the trial of Davis, concerning:
+
+(a)
+knowledge on the part of the anonymous witnesses of the fatal shooting of Delroy Barnes in February 2002 which may have been targeted at Marcus Johnson (Chaos);
+
+(b)
+The contents of D142 (prepared by DS Groves) (this concerned the suggestion that Marcus Johnson had passed the gun);
+
+(c)
+Gary Mowatt’s arrest in March 2002 for possession of a loaded firearm near an address linked to Harvey;
+
+(d)
+Requests by the families of the deceased to see the videos of the flat where the murders took place;
+
+(e)
+Contact between the anonymous witnesses after the murders;
+
+(f)
+Links between the anonymous witnesses;
+
+(g)
+Family or other relationships between the families of the deceased and the anonymous witnesses (it was suggested at the Harvey trial that Cecil Blackburne was in fact a step-brother of the deceased Wayne Mowatt – Summing up Vol D Page 15/16);
+
+(h)
+HEATH dealing drugs or being present in Flat 18 at the time of the shooting;
+
+(i)
+Tony PINK (“G”) having any relevant evidence to give.
+
+4.
+Any information subsequent to the trial of Davis which the police have acquired and/or should have investigated and/or disclosed concerning:
+
+(a)
+the threats to Harvey’s solicitors by a ‘Tony Shockness’;
+
+(b)
+whether Peter BROWN was a member of the Shockness family;
+
+(c)
+any matters set out in paragraph 3 above (requiring action post trial).
+
+5.
+In light of the suggestions at the ‘Harvey’ trial that some of the anonymous witnesses knew each other, any information to this effect. It can no longer be conceded that the witnesses in paragraph 3 of the advice on appeal can be treated in the ‘pure eye witness’ category
+
+6.
+Any evidence that supports the account given by the Defence witness Tony PINK in the ‘Harvey’ trial to the effect that ‘HEATH’ is a man called ‘Crusoe’ who was in fact dealing drugs from next door flat 18 at the time he was said to be a witness to the shooting and as such undermining his credibility and honesty.
+
+Exact: udge should not have embarked on this exercise of ruling on the anonymity issues at the time when he did;
+
+ Comment: Witnesses should not have been anonymous ","Exact: ground that it is unduly lenient;
+
+ Comment: Unduly lenient","Exact: should have been made concurrent;
+
+ Comment: Sentence should have been concurrent
+
+Exact: ecorder was wrong to pass custodial sentences totalling six months in respect of offences 1, 2 and 3;
+
+ Comment: Sentence is excessive","Exact: Although the two offences are different, they are both manifestations of the appellant's right wing ideology and both were committed over the same time period. As such the general rule is that concurrent sentences are appropriate;
+
+ Comment: ""Although the two offences are different, they are both manifestations of the appellant's right wing ideology and both were committed over the same time period. As such the general rule is that concurrent sentences are appropriate.""
+
+Exact: the appellant was not a threat to national security. He was not part of a conspiracy, or a terrorist cell. He had not actually manufactured an explosive device. Nor had he gone so far as to attempt to manufacture one and he relies strongly on the fact that there was no evidence that any attack was actually planned or imminent.;
+
+ Comment: he appellant was not a threat to national security. He was not part of a conspiracy, or a terrorist cell. He had not actually manufactured an explosive device. Nor had he gone so far as to attempt to manufacture one and he relies strongly on the fact that there was no evidence that any attack was actually planned or imminent","Exact: first, the conviction for false imprisonment was inconsistent and illogical; secondly, the submission of no case made at half time ought to have succeeded; thirdly, the finding of not guilty to sexual assault but guilty of false imprisonment rendered the conviction unsafe; fourthly, the process by which the jury was invited if not directed to reach verdicts on 9 April 2009 was flawed and capably gave rise to a sense of injustice.;
+
+ Comment: 
+
+Exact: ground that the jury was put under undue pressure of time to reach its verdict;
+
+ Comment: ","Exact: The first ground is that the judge erred in allowing joinder of a fresh indictment to the indictment upon which the Court of Appeal had ordered retrial. The second ground is that the judge erred in not allowing the defence to cross-examine the complainant, SJ, about allegations of violent misconduct as recorded in the school records. The third ground is that in all the circumstances the applicant's convictions are unsafe.;
+
+ Comment: ","Exact: appellant is that the judge erred in concluding that the interests of justice mandated admission of the evidence and thus in giving leave for the statement to be read;
+
+ Comment: Judge admitted evidence which should not have been admitted","Exact: aggravated by the fact that the judge compromised the warning about putting aside his own views by correcting comments made by Mr McNulty;
+
+ Comment: Trial judge did not properly/fully sum up the case
+
+Exact: “swamped” by the judge’s repeated and powerful directions that such initiation was irrelevant to the jury’s deliberations insofar as it went to entrapment.;
+
+ Comment: Trial judge gave own views on evidence/case that might bias the jury
+
+Exact: The directions that the jury should ignore any views which the judge expressed or appeared to express about the facts were inevitably compromised by the need to correct Mr McNulty’s submissions;
+
+ Comment: Trial judge gave own views on evidence/case that might bias the jury
+
+Exact: conviction is unsafe;
+
+ Comment: conviction is unsafe
+
+Exact: Mr McNulty’s misconduct and his alleged incompetence;
+
+ Comment: Counsel misconduct and incompetence","Exact: verdict in respect of the first Appellant is unsafe as an abuse of process;
+
+ Comment: Verdict is unsafe
+
+Exact: credibility of a number of witnesses who gave evidence for the Crown is damaged to the extent that their testimony cannot be relied upon;
+
+ Comment: Witness not credible
+
+Exact: police malfeasance;
+
+ Comment: 
+
+Exact: The legitimacy of the police investigation into the murder of Karen Price is damaged by new information not available at trial.;
+
+ Comment: Investigation is damaged
+
+Exact: The evidence of D was so unsatisfactory the verdict was unsafe;
+
+ Comment: Verdict was unsafe
+
+Exact: A material misdirection on corroboration and manslaughter;
+
+ Comment: ","Exact: this Ruling gives rise to the first ground of appeal. Mr Arnold, who appears on behalf of the appellant, submits that the Recorder erred in admitting the bad character evidence;
+
+ Comment: Trial judge admitted evidence which was prejudicial","Exact: should have been categorised as somewhere between Category 1 and 2.;
+
+ Comment: Sentencing judge should have put offence in a higher category of seriousness","Exact: judge had failed to take account of, or alternatively give any sufficient weight to, the factors relied on in submissions: in particular, as to the type of weapon, the limited nature of the possession, the lack of intention to possess or use in the future, and the lack of convictions for offences of violence.;
+
+ Comment: Trial judge should have put offence in a lower category of seriousness
+
+Exact: judge gave insufficient weight to the matters raised by him in support of the argument that in the case of the firearms offence there were exceptional circumstances which justified departure from the minimum term;
+
+ Comment: judge gave insufficient weight to the matters raised by him in support of the argument that in the case of the firearms offence there were exceptional circumstances which justified departure from the minimum term","Exact: appropriate advice before the questions were asked for the final time, he would have answered them, because he would then have known in clear terms that any confidentiality;
+
+ Comment: Lack of appropriate legal advise
+
+Exact: It was procedurally unfair to refuse him the opportunity, before he was asked for his final answer to the questions, to take legal advice regarding his duty of confidentiality as a religious minister.;
+
+ Comment: Lack of legal consultation",,"Exact: he applicant raises the issue of his own mental health;
+
+ Comment: 
+
+Exact: applicant lacked the intention necessary for murder;
+
+ Comment: 
+
+Exact: he was not guilty of murder but only of manslaughter on the basis of the law as it is now explained in Jogee;
+
+ Comment: 
+
+Exact: he applicant says that he was advised to plead guilty;
+
+ Comment: "
+PreSentReportNew Was New/updated Pre-sentence Report Prepared for Appeal Court?,Yes/No/Don’t know,PreSentReportNew,NA,NA,No,Don't know,Don't know,,Don't know,,Don't know,Don't Know,Don't know,Don't know,Don't know,Don't know,Don't know,Don't know,,Don't know,,Don't know,No
+"Does Appeal Court Mention Application of Any SentencingGuideline?
+If YES, which one(s)? SentGuideWhich","Yes/No
+If YES, List",SentencingGuideline,NA,NA,No,,No,,Don't know,"No
+
+Exact: ""An offence against this section [referring to section 18] has always been regarded as of great seriousness, reflected in the maximum penalty of life imprisonment. The reason is obvious. Not only must there be proof of grievous or serious injury, but that injury must have been caused intentionally or deliberately. There is an obvious contrast with section 20 of the same Act. Under that section the same injury must be proved, but the commission of the offence does not depend on proof of intention to cause it. The difference lies in the criminality of the defendant's intention. That is a significant difference, reflected in the maximum penalty of five years' imprisonment on conviction under section 20. The seriousness with which section 18 offences are regarded is evident not only in the severity of the potential punishment but also in the fact that a section 18 conviction ranks as 'a serious offence' for the purposes of section 2 of the Crime (Sentences) Act 1997. The consequence of that is that a second conviction of ""a serious offence"" obliges the court, in the absence of exceptional circumstances, to impose a sentence of life imprisonment.;
+
+ Comment: ",,,No,,No,No,No,No,,,NA,Don't know,No
+,,SentGuideWhich,NA,NA,NA,,NA,,NA,"NA
+
+Exact: section 2 of the Crime (Sentences) Act 1997.;
+
+ Comment: 
+
+Exact: referring to section 18;
+
+ Comment: ",,,NA,,NA,NA,NA,NA,"Exact: section 18 assault as a ""brutal and sustained attack"" on his partner, made worse by the fact that it was done in front of small children and was followed by the assault on the child L. The judge concluded that although it was an offence of greater harm, it was one of lower culpability and was therefore an offence that fell within Category 2 of the Sentencing Council Definitive Guideline for Assault.;
+
+ Comment: Sentencing Council Definitive Guideline for Assault","Exact: ourt gave guidance which included that circumstances are to be regarded as exceptional where the minimum sentence would result in an arbitrary and disproportionate sentence. In the light of that guidance and the basis of plea, this court in McMahon substituted for the minimum term a sentence of 30 months' imprisonment.;
+
+ Comment: 
+
+Exact: irearms offence attracts a minimum term of five years' imprisonment or detention for those over 18 at the date of the offence;
+
+ Comment: ",,Don't know,No
+AppealOutcome Outcome of Appeal,Dismissed-Failed-Refused/Allowed&Conviction Quashed-Unsafe/Allowed&Sentence Replaced by More Excessive Sentence/Allowed&Sentence Replaced by More Lenient Sentence/XXX,AppealOutcome,"NA
+
+Exact: Leave to appeal to the House of Lords is, however, refused.;
+
+ Comment: Refused","Exact: this appeal is allowed and a fine of £60,000 will be substituted for the fine of £200,000 imposed in the Crown Court.;
+
+ Comment: Allowed&Sentence Replaced by More Lenient Sentence","Exact: Accordingly, we dismiss these appeals;
+
+ Comment: Dismissed","Exact: we allow this appeal, quash the order made by the Recorder and substitute a new section 39 order in conventional terms.;
+
+ Comment: Allowed",,"Exact: we shall allow the appeal and quash the conviction;
+
+ Comment: Allow appeal and quash the conviction","Exact: the appeal will be dismissed;
+
+ Comment: 
+
+Exact: dismissed;
+
+ Comment: ",,"Exact: The appeal is allowed to the extent that we have indicated;
+
+ Comment: Allowed and sentence replace by more lenient sentence","Exact: this appeal is dismissed;
+
+ Comment: Dismissed","Exact: dismissed;
+
+ Comment: Dismissed","Exact: refused;
+
+ Comment: Refused","Exact: dismissed;
+
+ Comment: ","Exact: These appeals and applications are accordingly dismissed or refused.;
+
+ Comment: Dismissed","Exact: The court rejected all three;
+
+ Comment: Rejected
+
+Exact: we dismiss both appeals against conviction;
+
+ Comment: Dismissed","Exact: appeal will be dismissed;
+
+ Comment: Dismissed","Exact: we grant leave to the Solicitor General, we quash the sentence five years and four months and substitute a term of seven-and-a-half years on count 1;
+
+ Comment: Allowed and sentence replaced by more excessive sentence","Exact: appeal is allowed to the extent we have indicated.;
+
+ Comment: Allowed and sentence replaced by more lenient sentence",,"Exact: We grant the necessary extension of time and we grant leave;
+
+ Comment: Allowed and convicted","Exact: refuse the application for an extension of time;
+
+ Comment: Refused"
+ReasonQuashConv Appeal Court Basis Given for Why Conviction is Unsafe-Quashed,"Select all that apply E.g., Appeal court believes trial judge asked jury to perform task that was too difficult for them or they might not perform reliably, Appeal court believes jury was inappropriately told of defendants’ previous convictions, Appeal court believes jury could not be sure that defendant was same person as in CCTV/photo, Appeal court believes police did not use best practice, Appeal court believes trial judge should not have admitted some evidence, Appeal court believes jury was not given sufficient guidance by trial judge, Appeal court believes it was inappropriate for jury not to be allowed to see some evidence, XXX",ReasonQuashConv,NA,NA,NA,"Exact: quash the order in its entirety and not to replace it by an appropriately worded section 39 order.;
+
+ Comment: ",,"Exact: concern about the way in which the evidence of the previous convictions was adduced remains as a ground of appeal.;
+
+ Comment: Appeal court believes jury was inappropriately told of defendants’ previous convictions,",NA,NA,NA,NA,NA,"NA
+
+Exact: that in all the circumstances the applicant's convictions are unsafe.;
+
+ Comment: All circumstances are unsafe",NA,NA,NA,NA,NA,,"Exact: was a serious procedural unfairness in not fully and clearly explaining to the appellant that any confidentiality had been waived;
+
+ Comment: Serious procedural unfairness",NA,NA
+"ReasonSentExcess Appeal Court Basis Given for Why Sentence RSE_is/RSE_is_not Unduly Excessive
+","ReasonSentExcess Appeal Court Basis Given for Why Sentence RSE_is/RSE_is_not Unduly Excessive
+
+",ReasonSentExcess,NA,"Exact: fine of £200,000 was manifestly excessive for this single offence, particularly when measured against the total fines of £80,000 in the Yorkshire Water case.;
+
+ Comment: Previous case",NA,NA,NA,,NA,NA,"Exact: She emphasises the fact that the appellant was only 18 years of age at the time; that he had never received a custodial sentence before; that he had pleaded guilty at the first opportunity; and that, although he has previous convictions, his record was by no means serious.;
+
+ Comment: ","Exact: In other words when looked at overall is 7 years and 3 months the appropriate sentence for what this man did? We have come to the conclusion that it is. It cannot be said that the total sentence was wrong in principle or manifestly excessive. Despite the attract and persuasive argument put forward by Mr Harbage, this appeal is dismissed.;
+
+ Comment: RSE_is_not Unduly Excessive",NA,NA,NA,"NA
+
+Exact: minimum term was manifestly excessive in that the judge should have attached more weight to the fact that there was no evidence that any person radicalised by Farooqi had travelled abroad to fight Jihad;
+
+ Comment: ",NA,NA,NA,"Exact: (1) the weapon did not shoot bullets; (2) no used had been made of it; (3) the intention was only to use it to make it buzz, to frighten away an intruder; and (4) the previous convictions were not relevant to the offending;
+
+ Comment:  (1) the weapon did not shoot bullets; (2) no used had been made of it; (3) the intention was only to use it to make it buzz, to frighten away an intruder; and (4) the previous convictions were not relevant to the offending",,NA,NA
+ReasonSentLenient Appeal Court Basis Given for Why Sentence RSL_is/RSL_is_not Unduly Lenient,"Select all that apply E.G. Appeal court believes offender has strong personal mitigation, Appeal court believes offender has realistic prospect of rehabilitation, Appeal court believes offender does not have history of poor compliance with court orders, Appeal court believes offender does not pose significant continuing risk to public, Appeal court believes sentencing judge did not refer to relevant sentencing guideline, Appeal court believes sentencing judge did not have a real option to pass anything other than a custodial sentence, XXX",ReasonSentLenient,NA,NA,NA,NA,NA,,NA,"Exact: It is true to say that all offences against section 18 are serious because they involve the deliberate or intentional causing of serious injury.;
+
+ Comment: 
+
+Exact: ""However, we wish to stress that anyone who breaks into to someone else's house in the middle of the night, with the intention of inflicting grievous bodily harm, particularly if he takes others with him and has weapons, can expect to receive a substantial sentence. An offence of that kind is outrageous."";
+
+ Comment: ",NA,NA,NA,NA,NA,NA,NA,NA,"Exact: Overall it was a Category 1 offence and marked by a number of aggravating factors to which the judge gave insufficient weight. In particular, first, the offences had been committed while the offender was under the influence of alcohol; second, the violence had been inflicted in the victim's home in front of children and in the case of count 2 against a child; third, there was the ongoing effect on the victims who had been forced to leave their home, each one of which is identified as an aggravating feature under the guidelines. Finally, she submitted that it was wrong to give full credit for a plea at the plea and trial preparation hearing. It should have been 25 per cent.;
+
+ Comment: Multiple aggravating factors",NA,NA,NA,NA
+ReasonDismiss Appeal Court Basis Given for Why Appeal Dismissed-Failed-Refused,"Select all that apply E.G. Trial/sentencing judge considered all relevant facts in appropriate way and came to correct conclusion/decision, Trial/sentencing judge approach and decision cannot be faulted, Offender had knew there was no ground for appeal, Offender let too much time pass before appealing, Appeal court is not persuaded by submissions on behalf of appellant, Appellant also used a ‘cut-throat’ defence, Trial judge made correct judgement regarding admissibility of some evidence, Trial judge made correct decision regarding inadmissibility of some evidence, No criticism is made by appellant regarding trial judges’ direction/instruction to jury, Appeal court believes jury will follow/obey trial judges’ directions/instructions, Trial judge’s summing up was not the sole thing the jury relied on, Appeal court believes jury understood the issues in the case, The original sentence fell within the guidelines range, Appeal has no merit, XXX",ReasonDismiss,NA,NA,"Exact: In those circumstances, we do not consider that there is anything in the argument that the evidence of Mr Vernells should not have been admitted, or that the way in which it was given could in any way render the convictions of these two appellants unsafe. Accordingly, we dismiss these appeals.;
+
+ Comment: No ground for appeal",NA,NA,,"Exact: The case was summed up to the jury with meticulous care. The directions of law were accurate. Appropriate warnings were given. The evidence was closely analysed. The summing up was comprehensive, balanced and fair.;
+
+ Comment: 
+
+Exact: We cannot detect any reason for doubting the integrity of the trial process, or the safety of these convictions. These appeals are dismissed.;
+
+ Comment: ",NA,NA,"Exact: It cannot be said that the total sentence was wrong in principle or manifestly excessive.;
+
+ Comment: ","Exact: that the jury did indeed deliberate free from any pressure of time. This appeal is dismissed.;
+
+ Comment: Jury had enough time to deliberate","Exact: judge took into account all relevant factors;
+
+ Comment: judge took into account all relevant factors","Exact: there is no basis for holding that the trial was unfair or that the verdict is unsafe;
+
+ Comment: Trial was not unfair, verdict is not unsafe","Exact: Having considered the merits and determined that there are none, we dismiss this application. Insofar as any extension of time was required in Malik’s case, that too is refused.;
+
+ Comment: Trial/sentencing judge considered all relevant facts in appropriate way and came to correct conclusion/decision","Exact: In those circumstances the only way in which an appeal could succeed is if we were to find that the prosecution offended the court’s sense of justice and propriety to the extent that it amounted to an abuse of process. As we have indicated, we do not. The police misconduct in this case proven or alleged was not such as to offend our sense of justice or amount to an abuse of process.;
+
+ Comment: Appeal court is not persuaded by submissions on behalf of appellant","Exact: summing-up informed the jury of why they had heard the evidence of the appellant's previous conviction, warned them against prejudice and over-reliance, directed them that they were entitled to consider it when assessing the appellant's explanation and that it was for them to decide how much it assisted them;
+
+ Comment: Summing up was accurate, evidence should not have caused prejudice ",NA,NA,NA,NA,"Exact: we find no arguable merit in the applicant's proposed grounds of appeal;
+
+ Comment: "
