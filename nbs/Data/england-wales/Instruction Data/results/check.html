@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Case Law Visualization</title>
+  <!-- Hypothesis client setup -->
+  <script src="https://unpkg.com/hypothesis-client@2.0.0/dist/hypothesis.min.js"></script>
+  <script>
+    // Replace with your actual Hypothesis username and API key
+    const username = "your-username";  // Placeholder for Hypothesis username
+    const apiKey = "your-api-key";    // Placeholder for Hypothesis API key
+
+    // Sample data (the JSON structure you've provided)
+    const caseData = [
+      {
+        "section": "citation",
+        "Comment": "[2023] EWCA Crim 1252",
+        "Exact": "IN THE COURT OF APPEAL CRIMINAL DIVISION [2023] EWCA Crim 1252 No. 202300471 A4 Royal Courts of Justice Wednesday, 11 October 2023"
+      },
+      {
+        "section": "judges",
+        "Comment": "LORD JUSTICE WARBY, MR JUSTICE MURRAY, HIS HONOUR JUDGE LEONARD KC",
+        "Exact": "Before: LORD JUSTICE WARBY MR JUSTICE MURRAY HIS HONOUR JUDGE LEONARD KC"
+      },
+      // Add other data as needed
+    ];
+
+    // Function to construct the URL from the citation
+    function getCaseUrl(citation) {
+      const match = citation.match(/\[(\d{4})\] EWCA Crim (\d+)/);
+      if (match) {
+        const year = match[1];
+        const caseNumber = match[2];
+        return `https://caselaw.nationalarchives.gov.uk/ewca/crim/${year}/${caseNumber}`;
+      }
+      return null;
+    }
+
+    // Function to parse and display data
+    function parseData(data) {
+      const container = document.getElementById("content");
+
+      data.forEach(item => {
+        const section = item.section;
+        const comment = item.Comment;
+        const exact = item.Exact;
+
+        // Create a new section for each data entry
+        const sectionDiv = document.createElement("div");
+        sectionDiv.classList.add("section");
+
+        const header = document.createElement("h3");
+        header.innerText = section;
+        sectionDiv.appendChild(header);
+
+        const exactText = document.createElement("p");
+        exactText.innerText = exact;
+        sectionDiv.appendChild(exactText);
+
+        // Handle case URL for citation
+        if (section === "citation") {
+          const caseUrl = getCaseUrl(comment);
+          if (caseUrl) {
+            const caseLink = document.createElement("a");
+            caseLink.href = caseUrl;
+            caseLink.target = "_blank";
+            caseLink.innerText = "View Case Details";
+            sectionDiv.appendChild(caseLink);
+          }
+        }
+
+        container.appendChild(sectionDiv);
+      });
+    }
+
+    // Run the function on page load
+    window.onload = () => {
+      parseData(caseData);
+
+      // Hypothesis client initialization (replace with actual username and API key)
+      window.hypothesisConfig = {
+        "clientUrl": "https://hypothes.is",
+        "username": "stirunagari",  // Hypothesis username placeholder
+        "apiKey": "6879-Ws7xpjMTkjjUocr0Nzga0_yYkb-9sF9XmRHaKPQScCc"       // Hypothesis API key placeholder
+      };
+
+      // Enable Hypothesis
+      window.hypothesisConfig.apiKey = apiKey;  // Optional: set Hypothesis API key if needed
+      window.hypothesisConfig.username = username;  // Optional: set Hypothesis username if needed
+    };
+  </script>
+</head>
+<body>
+  <div id="content">
+    <!-- Case law data will be displayed here -->
+  </div>
+</body>
+</html>
+
+
